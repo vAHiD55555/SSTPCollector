@@ -1,40 +1,120 @@
 [
     [
         [
-            "..\/images\/flags\/US.png",
-            "United States"
+            "..\/images\/flags\/JP.png",
+            "Japan"
         ],
         [
-            "vpn880499390.opengw.net",
-            "67.188.115.51"
+            "public-vpn-53.opengw.net",
+            "219.100.37.225",
+            "(public-vpn-test1-01.vpngate.v4.open.ad.jp)"
         ],
         [
-            "101 sessions",
-            "10 days",
-            "Total 164,059 users"
+            "344 sessions",
+            "7 days",
+            "Total 2,078,591 users"
         ],
         [
-            "521.93 Mbps",
-            "Ping: 18 ms",
-            "8,421.83 GB",
+            "4,249.47 Mbps",
+            "Ping: 12 ms",
+            "8,644.03 GB",
             "Logging policy:",
             "2 Weeks"
         ],
         [
             "SSL-VPN",
-            "TCP: 1701",
+            "TCP: 443",
             "UDP: Supported"
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn880499390.opengw.net&ip=67.188.115.51&tcp=1701&udp=1774&sid=1716543292992&hid=8821808",
+            "do_openvpn.aspx?fqdn=public-vpn-53.opengw.net&ip=219.100.37.225&tcp=443&udp=1195&sid=1716544498115&hid=15074638",
             "OpenVPN",
-            "TCP: 1701",
-            "UDP: 1774"
+            "TCP: 443",
+            "UDP: 1195"
         ],
         [
             "MS-SSTP",
-            "vpn880499390.opengw.net:1701"
+            "public-vpn-53.opengw.net"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/JP.png",
+            "Japan"
+        ],
+        [
+            "public-vpn-37.opengw.net",
+            "219.100.37.1",
+            "(public-vpn-01-01.vpngate.v4.open.ad.jp)"
+        ],
+        [
+            "862 sessions",
+            "5 days",
+            "Total 7,892,221 users"
+        ],
+        [
+            "4,327.11 Mbps",
+            "Ping: 27 ms",
+            "400,661.40 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 443",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=public-vpn-37.opengw.net&ip=219.100.37.1&tcp=443&udp=1195&sid=1716544498115&hid=15074622",
+            "OpenVPN",
+            "TCP: 443",
+            "UDP: 1195"
+        ],
+        [
+            "MS-SSTP",
+            "public-vpn-37.opengw.net"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/JP.png",
+            "Japan"
+        ],
+        [
+            "vpn810665606.opengw.net",
+            "126.126.99.97"
+        ],
+        [
+            "32 sessions",
+            "9 days",
+            "Total 31,174 users"
+        ],
+        [
+            "93.32 Mbps",
+            "Ping: 7 ms",
+            "5,193.08 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1427",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn810665606.opengw.net&ip=126.126.99.97&tcp=1427&udp=1879&sid=1716544498115&hid=19992130",
+            "OpenVPN",
+            "TCP: 1427",
+            "UDP: 1879"
+        ],
+        [
+            "MS-SSTP",
+            "vpn810665606.opengw.net:1427"
         ],
         ""
     ],
@@ -49,14 +129,14 @@
             "(public-vpn-01-06.vpngate.v4.open.ad.jp)"
         ],
         [
-            "887 sessions",
+            "929 sessions",
             "7 days",
-            "Total 7,434,053 users"
+            "Total 7,434,755 users"
         ],
         [
             "4,213.91 Mbps",
             "Ping: 8 ms",
-            "331,043.23 GB",
+            "331,054.56 GB",
             "Logging policy:",
             "2 Weeks"
         ],
@@ -67,7 +147,7 @@
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=public-vpn-42.opengw.net&ip=219.100.37.6&tcp=443&udp=0&sid=1716543292992&hid=15074627",
+            "do_openvpn.aspx?fqdn=public-vpn-42.opengw.net&ip=219.100.37.6&tcp=443&udp=0&sid=1716544498115&hid=15074627",
             "OpenVPN",
             "TCP: 443"
         ],
@@ -79,314 +159,158 @@
     ],
     [
         [
-            "..\/images\/flags\/JP.png",
-            "Japan"
+            "..\/images\/flags\/KH.png",
+            "Cambodia"
         ],
         [
-            "public-vpn-53.opengw.net",
-            "219.100.37.225",
-            "(public-vpn-test1-01.vpngate.v4.open.ad.jp)"
+            "vpn867969807.opengw.net",
+            "27.254.112.142"
         ],
         [
-            "355 sessions",
-            "7 days",
-            "Total 2,078,064 users"
+            "25 sessions",
+            "9 days",
+            "Total 38,122 users"
         ],
         [
-            "4,249.47 Mbps",
-            "Ping: 12 ms",
-            "8,643.58 GB",
+            "79.45 Mbps",
+            "Ping: 23 ms",
+            "983.62 GB",
             "Logging policy:",
             "2 Weeks"
         ],
         [
             "SSL-VPN",
-            "TCP: 443",
+            "TCP: 1999",
             "UDP: Supported"
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=public-vpn-53.opengw.net&ip=219.100.37.225&tcp=443&udp=1195&sid=1716543292992&hid=15074638",
+            "do_openvpn.aspx?fqdn=vpn867969807.opengw.net&ip=27.254.112.142&tcp=1999&udp=1470&sid=1716544498130&hid=21836749",
             "OpenVPN",
-            "TCP: 443",
-            "UDP: 1195"
+            "TCP: 1999",
+            "UDP: 1470"
         ],
         [
             "MS-SSTP",
-            "public-vpn-53.opengw.net"
+            "vpn867969807.opengw.net:1999"
         ],
         ""
     ],
     [
         [
-            "..\/images\/flags\/US.png",
-            "United States"
+            "..\/images\/flags\/KH.png",
+            "Cambodia"
         ],
         [
-            "vpn585377015.opengw.net",
-            "152.44.137.206"
+            "vpn527131906.opengw.net",
+            "27.254.112.142"
         ],
         [
-            "74 sessions",
-            "0 mins",
-            "Total 42,126 users"
-        ],
-        [
-            "300.91 Mbps",
-            "Ping: 3 ms",
-            "3,830.24 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1650"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn585377015.opengw.net&ip=152.44.137.206&tcp=1650&udp=1429&sid=1716543292992&hid=21240435",
-            "OpenVPN",
-            "TCP: 1650",
-            "UDP: 1429"
-        ],
-        [
-            "MS-SSTP",
-            "vpn585377015.opengw.net:1650"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/US.png",
-            "United States"
-        ],
-        [
-            "vpn186235530.opengw.net",
-            "98.232.133.109"
-        ],
-        [
-            "16 sessions",
-            "0 mins",
-            "Total 23,173 users"
-        ],
-        [
-            "54.01 Mbps",
-            "Ping: 16 ms",
-            "2,165.28 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1973",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn186235530.opengw.net&ip=98.232.133.109&tcp=1973&udp=1858&sid=1716543292992&hid=18604725",
-            "OpenVPN",
-            "TCP: 1973",
-            "UDP: 1858"
-        ],
-        [
-            "MS-SSTP",
-            "vpn186235530.opengw.net:1973"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/US.png",
-            "United States"
-        ],
-        [
-            "vpn483067935.opengw.net",
-            "72.193.187.226",
-            "(ip72-193-187-226.lv.lv.cox.net)"
-        ],
-        [
-            "47 sessions",
-            "0 mins",
-            "Total 627,113 users"
-        ],
-        [
-            "51.05 Mbps",
-            "Ping: 17 ms",
-            "32,003.80 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1915",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn483067935.opengw.net&ip=72.193.187.226&tcp=1915&udp=1494&sid=1716543292992&hid=10448064",
-            "OpenVPN",
-            "TCP: 1915",
-            "UDP: 1494"
-        ],
-        [
-            "MS-SSTP",
-            "vpn483067935.opengw.net:1915"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/JP.png",
-            "Japan"
-        ],
-        [
-            "vpn803614888.opengw.net",
-            "60.73.30.231"
-        ],
-        [
-            "67 sessions",
+            "31 sessions",
             "14 days",
-            "Total 212,733 users"
+            "Total 17,715 users"
         ],
         [
-            "72.05 Mbps",
-            "Ping: 6 ms",
-            "21,355.48 GB",
+            "51.59 Mbps",
+            "Ping: 25 ms",
+            "506.42 GB",
             "Logging policy:",
             "2 Weeks"
         ],
         [
             "SSL-VPN",
-            "TCP: 1453",
+            "TCP: 1555",
             "UDP: Supported"
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn803614888.opengw.net&ip=60.73.30.231&tcp=1453&udp=1739&sid=1716543292992&hid=5901359",
+            "do_openvpn.aspx?fqdn=vpn527131906.opengw.net&ip=27.254.112.142&tcp=1555&udp=1995&sid=1716544498130&hid=21857043",
             "OpenVPN",
-            "TCP: 1453",
-            "UDP: 1739"
+            "TCP: 1555",
+            "UDP: 1995"
         ],
         [
             "MS-SSTP",
-            "vpn803614888.opengw.net:1453"
+            "vpn527131906.opengw.net:1555"
         ],
         ""
     ],
     [
         [
-            "..\/images\/flags\/JP.png",
-            "Japan"
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
         ],
         [
-            "vpn349251986.opengw.net",
-            "14.3.61.240"
+            "vpn383977186.opengw.net",
+            "112.72.253.154"
         ],
         [
-            "3 sessions",
+            "115 sessions",
             "13 days",
-            "Total 636,461 users"
+            "Total 2,462,865 users"
         ],
         [
-            "586.91 Mbps",
-            "Ping: 4 ms",
-            "90,926.05 GB",
+            "59.19 Mbps",
+            "Ping: 34 ms",
+            "148,833.73 GB",
             "Logging policy:",
             "2 Weeks"
         ],
         [
             "SSL-VPN",
-            "TCP: 1389",
+            "TCP: 1561",
             "UDP: Supported"
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn349251986.opengw.net&ip=14.3.61.240&tcp=1389&udp=1498&sid=1716543292992&hid=18333405",
+            "do_openvpn.aspx?fqdn=vpn383977186.opengw.net&ip=112.72.253.154&tcp=1561&udp=1553&sid=1716544498130&hid=17569377",
             "OpenVPN",
-            "TCP: 1389",
-            "UDP: 1498"
+            "TCP: 1561",
+            "UDP: 1553"
         ],
         [
             "MS-SSTP",
-            "vpn349251986.opengw.net:1389"
+            "vpn383977186.opengw.net:1561"
         ],
         ""
     ],
     [
         [
-            "..\/images\/flags\/JP.png",
-            "Japan"
+            "..\/images\/flags\/HK.png",
+            "Hong Kong"
         ],
         [
-            "vpn879260005.opengw.net",
-            "180.145.132.154"
+            "vpn125101970.opengw.net",
+            "123.203.147.106",
+            "(123203147106.ctinets.com)"
         ],
         [
-            "50 sessions",
-            "15 days",
-            "Total 190,784 users"
+            "55 sessions",
+            "18 days",
+            "Total 1,120,127 users"
         ],
         [
-            "935.85 Mbps",
-            "Ping: 2 ms",
-            "80,052.36 GB",
+            "19.87 Mbps",
+            "Ping: 5 ms",
+            "66,217.19 GB",
             "Logging policy:",
             "2 Weeks"
         ],
         [
             "SSL-VPN",
-            "TCP: 1538",
+            "TCP: 1377",
             "UDP: Supported"
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn879260005.opengw.net&ip=180.145.132.154&tcp=1538&udp=1397&sid=1716543292992&hid=21564156",
+            "do_openvpn.aspx?fqdn=vpn125101970.opengw.net&ip=123.203.147.106&tcp=1377&udp=1357&sid=1716544498130&hid=19292090",
             "OpenVPN",
-            "TCP: 1538",
-            "UDP: 1397"
+            "TCP: 1377",
+            "UDP: 1357"
         ],
         [
             "MS-SSTP",
-            "vpn879260005.opengw.net:1538"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/JP.png",
-            "Japan"
-        ],
-        [
-            "vpn603372158.opengw.net",
-            "222.8.250.72"
-        ],
-        [
-            "81 sessions",
-            "15 days",
-            "Total 743,366 users"
-        ],
-        [
-            "643.88 Mbps",
-            "Ping: 27 ms",
-            "85,589.99 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1718",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn603372158.opengw.net&ip=222.8.250.72&tcp=1718&udp=1901&sid=1716543292992&hid=18870578",
-            "OpenVPN",
-            "TCP: 1718",
-            "UDP: 1901"
-        ],
-        [
-            "MS-SSTP",
-            "vpn603372158.opengw.net:1718"
+            "vpn125101970.opengw.net:1377"
         ],
         ""
     ],
@@ -418,10 +342,9 @@
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn839219597.opengw.net&ip=219.255.131.30&tcp=1354&udp=1685&sid=1716543292992&hid=20694077",
+            "do_openvpn.aspx?fqdn=vpn839219597.opengw.net&ip=219.255.131.30&tcp=1354&udp=0&sid=1716544498130&hid=20694077",
             "OpenVPN",
-            "TCP: 1354",
-            "UDP: 1685"
+            "TCP: 1354"
         ],
         [
             "MS-SSTP",
@@ -435,18 +358,171 @@
             "Korea Republic of"
         ],
         [
-            "vpn419822879.opengw.net",
-            "59.14.246.139"
+            "vpn169530017.opengw.net",
+            "110.9.50.135"
         ],
         [
-            "66 sessions",
+            "61 sessions",
             "8 days",
-            "Total 168,504 users"
+            "Total 491,618 users"
         ],
         [
-            "68.25 Mbps",
+            "54.27 Mbps",
+            "Ping: 28 ms",
+            "58,257.22 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 995",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn169530017.opengw.net&ip=110.9.50.135&tcp=995&udp=1195&sid=1716544498130&hid=17241216",
+            "OpenVPN",
+            "TCP: 995",
+            "UDP: 1195"
+        ],
+        [
+            "MS-SSTP",
+            "vpn169530017.opengw.net:995"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn705353032.opengw.net",
+            "180.229.33.160"
+        ],
+        [
+            "55 sessions",
+            "21 days",
+            "Total 33,754 users"
+        ],
+        [
+            "74.98 Mbps",
+            "Ping: 67 ms",
+            "3,024.10 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1741",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn705353032.opengw.net&ip=180.229.33.160&tcp=1741&udp=1689&sid=1716544498130&hid=21777578",
+            "OpenVPN",
+            "TCP: 1741",
+            "UDP: 1689"
+        ],
+        [
+            "MS-SSTP",
+            "vpn705353032.opengw.net:1741"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn205780464.opengw.net",
+            "1.223.240.244"
+        ],
+        [
+            "37 sessions",
+            "41 days",
+            "Total 289,760 users"
+        ],
+        [
+            "365.13 Mbps",
+            "Ping: 39 ms",
+            "39,695.21 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1754"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn205780464.opengw.net&ip=1.223.240.244&tcp=1754&udp=0&sid=1716544498130&hid=18524555",
+            "OpenVPN",
+            "TCP: 1754"
+        ],
+        [
+            "MS-SSTP",
+            "vpn205780464.opengw.net:1754"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn232682292.opengw.net",
+            "211.222.1.62"
+        ],
+        [
+            "59 sessions",
+            "9 days",
+            "Total 518,251 users"
+        ],
+        [
+            "77.89 Mbps",
             "Ping: 31 ms",
-            "32,941.56 GB",
+            "65,226.15 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1208",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn232682292.opengw.net&ip=211.222.1.62&tcp=1208&udp=0&sid=1716544498130&hid=18292247",
+            "OpenVPN",
+            "TCP: 1208"
+        ],
+        [
+            "MS-SSTP",
+            "vpn232682292.opengw.net:1208"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn836324515.opengw.net",
+            "218.232.211.173"
+        ],
+        [
+            "86 sessions",
+            "89 days",
+            "Total 371,027 users"
+        ],
+        [
+            "26.52 Mbps",
+            "Ping: 68 ms",
+            "51,673.86 GB",
             "Logging policy:",
             "2 Weeks"
         ],
@@ -457,53 +533,53 @@
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn419822879.opengw.net&ip=59.14.246.139&tcp=995&udp=1195&sid=1716543292992&hid=18207309",
+            "do_openvpn.aspx?fqdn=vpn836324515.opengw.net&ip=218.232.211.173&tcp=995&udp=1195&sid=1716544498130&hid=20993248",
             "OpenVPN",
             "TCP: 995",
             "UDP: 1195"
         ],
         [
             "MS-SSTP",
-            "vpn419822879.opengw.net:995"
+            "vpn836324515.opengw.net:995"
         ],
         ""
     ],
     [
         [
-            "..\/images\/flags\/JP.png",
-            "Japan"
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
         ],
         [
-            "vpn603990303.opengw.net",
-            "180.16.132.91"
+            "vpn257270315.opengw.net",
+            "211.194.116.34"
         ],
         [
-            "45 sessions",
-            "4 days",
-            "Total 99,076 users"
+            "13 sessions",
+            "6 days",
+            "Total 61,194 users"
         ],
         [
-            "57.90 Mbps",
-            "Ping: 18 ms",
-            "4,941.56 GB",
+            "75.47 Mbps",
+            "Ping: 35 ms",
+            "4,144.82 GB",
             "Logging policy:",
             "2 Weeks"
         ],
         [
             "SSL-VPN",
-            "TCP: 1831",
+            "TCP: 1318",
             "UDP: Supported"
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn603990303.opengw.net&ip=180.16.132.91&tcp=1831&udp=1338&sid=1716543292992&hid=21346426",
+            "do_openvpn.aspx?fqdn=vpn257270315.opengw.net&ip=211.194.116.34&tcp=1318&udp=1368&sid=1716544498130&hid=12592398",
             "OpenVPN",
-            "TCP: 1831",
-            "UDP: 1338"
+            "TCP: 1318",
+            "UDP: 1368"
         ],
         [
             "MS-SSTP",
-            "vpn603990303.opengw.net:1831"
+            "vpn257270315.opengw.net:1318"
         ],
         ""
     ],
@@ -513,37 +589,76 @@
             "Japan"
         ],
         [
-            "public-vpn-37.opengw.net",
-            "219.100.37.1",
-            "(public-vpn-01-01.vpngate.v4.open.ad.jp)"
+            "vpn578979958.opengw.net",
+            "122.210.45.185",
+            "(122x210x45x185.ap122.ftth.ucom.ne.jp)"
         ],
         [
-            "802 sessions",
+            "14 sessions",
             "5 days",
-            "Total 7,891,679 users"
+            "Total 205,121 users"
         ],
         [
-            "4,327.11 Mbps",
-            "Ping: 27 ms",
-            "400,647.82 GB",
+            "96.64 Mbps",
+            "Ping: 3 ms",
+            "7,958.67 GB",
             "Logging policy:",
             "2 Weeks"
         ],
         [
             "SSL-VPN",
-            "TCP: 443",
+            "TCP: 1830",
             "UDP: Supported"
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=public-vpn-37.opengw.net&ip=219.100.37.1&tcp=443&udp=1195&sid=1716543292992&hid=15074622",
+            "do_openvpn.aspx?fqdn=vpn578979958.opengw.net&ip=122.210.45.185&tcp=1830&udp=1430&sid=1716544498130&hid=19773823",
             "OpenVPN",
-            "TCP: 443",
+            "TCP: 1830",
+            "UDP: 1430"
+        ],
+        [
+            "MS-SSTP",
+            "vpn578979958.opengw.net:1830"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn406505341.opengw.net",
+            "183.108.102.115"
+        ],
+        [
+            "85 sessions",
+            "38 days",
+            "Total 63,035 users"
+        ],
+        [
+            "13.23 Mbps",
+            "Ping: 32 ms",
+            "7,862.51 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 995",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn406505341.opengw.net&ip=183.108.102.115&tcp=995&udp=1195&sid=1716544498130&hid=21755911",
+            "OpenVPN",
+            "TCP: 995",
             "UDP: 1195"
         ],
         [
             "MS-SSTP",
-            "public-vpn-37.opengw.net"
+            "vpn406505341.opengw.net:995"
         ],
         ""
     ],
@@ -557,14 +672,14 @@
             "203.141.139.65"
         ],
         [
-            "353 sessions",
+            "371 sessions",
             "12 days",
-            "Total 690,427 users"
+            "Total 690,779 users"
         ],
         [
             "36.03 Mbps",
             "Ping: 20 ms",
-            "49,744.49 GB",
+            "49,775.07 GB",
             "Logging policy:",
             "Permanent"
         ],
@@ -574,7 +689,7 @@
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=2i6.opengw.net&ip=203.141.139.65&tcp=1194&udp=1194&sid=1716543292992&hid=21565308",
+            "do_openvpn.aspx?fqdn=2i6.opengw.net&ip=203.141.139.65&tcp=1194&udp=1194&sid=1716544498130&hid=21565308",
             "OpenVPN",
             "TCP: 1194",
             "UDP: 1194"
@@ -587,40 +702,40 @@
     ],
     [
         [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
+            "..\/images\/flags\/JP.png",
+            "Japan"
         ],
         [
-            "vpn789835670.opengw.net",
-            "175.210.209.16"
+            "vpn686639711.opengw.net",
+            "211.9.114.223"
         ],
         [
-            "49 sessions",
+            "30 sessions",
             "4 days",
-            "Total 17,721 users"
+            "Total 8,905 users"
         ],
         [
-            "87.57 Mbps",
-            "Ping: 28 ms",
-            "1,304.29 GB",
+            "95.70 Mbps",
+            "Ping: 20 ms",
+            "646.36 GB",
             "Logging policy:",
             "2 Weeks"
         ],
         [
             "SSL-VPN",
-            "TCP: 1416",
+            "TCP: 1421",
             "UDP: Supported"
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn789835670.opengw.net&ip=175.210.209.16&tcp=1416&udp=1195&sid=1716543292992&hid=21818843",
+            "do_openvpn.aspx?fqdn=vpn686639711.opengw.net&ip=211.9.114.223&tcp=1421&udp=1729&sid=1716544498130&hid=21921670",
             "OpenVPN",
-            "TCP: 1416",
-            "UDP: 1195"
+            "TCP: 1421",
+            "UDP: 1729"
         ],
         [
             "MS-SSTP",
-            "vpn789835670.opengw.net:1416"
+            "vpn686639711.opengw.net:1421"
         ],
         ""
     ],
@@ -630,36 +745,36 @@
             "Japan"
         ],
         [
-            "vpn658545401.opengw.net",
-            "126.206.186.219"
+            "vpn356087746.opengw.net",
+            "126.216.215.212"
         ],
         [
-            "81 sessions",
+            "24 sessions",
             "4 days",
-            "Total 655,112 users"
+            "Total 302,682 users"
         ],
         [
-            "1,639.99 Mbps",
-            "Ping: 5 ms",
-            "88,769.57 GB",
+            "86.58 Mbps",
+            "Ping: 6 ms",
+            "15,600.59 GB",
             "Logging policy:",
             "2 Weeks"
         ],
         [
             "SSL-VPN",
-            "TCP: 1347",
+            "TCP: 1628",
             "UDP: Supported"
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn658545401.opengw.net&ip=126.206.186.219&tcp=1347&udp=1816&sid=1716543292992&hid=21493308",
+            "do_openvpn.aspx?fqdn=vpn356087746.opengw.net&ip=126.216.215.212&tcp=1628&udp=1461&sid=1716544498130&hid=16135245",
             "OpenVPN",
-            "TCP: 1347",
-            "UDP: 1816"
+            "TCP: 1628",
+            "UDP: 1461"
         ],
         [
             "MS-SSTP",
-            "vpn658545401.opengw.net:1347"
+            "vpn356087746.opengw.net:1628"
         ],
         ""
     ],
@@ -669,18 +784,18 @@
             "Korea Republic of"
         ],
         [
-            "vpn864577769.opengw.net",
-            "125.140.60.95"
+            "vpn380548616.opengw.net",
+            "218.145.181.197"
         ],
         [
-            "50 sessions",
-            "5 days",
-            "Total 378,238 users"
+            "87 sessions",
+            "27 days",
+            "Total 8,277,589 users"
         ],
         [
-            "56.89 Mbps",
-            "Ping: 38 ms",
-            "36,540.58 GB",
+            "3.63 Mbps",
+            "Ping: 27 ms",
+            "644,772.72 GB",
             "Logging policy:",
             "2 Weeks"
         ],
@@ -691,92 +806,52 @@
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn864577769.opengw.net&ip=125.140.60.95&tcp=995&udp=1195&sid=1716543292992&hid=20581702",
+            "do_openvpn.aspx?fqdn=vpn380548616.opengw.net&ip=218.145.181.197&tcp=995&udp=1195&sid=1716544498130&hid=17957822",
             "OpenVPN",
             "TCP: 995",
             "UDP: 1195"
         ],
         [
             "MS-SSTP",
-            "vpn864577769.opengw.net:995"
+            "vpn380548616.opengw.net:995"
         ],
         ""
     ],
     [
         [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
+            "..\/images\/flags\/JP.png",
+            "Japan"
         ],
         [
-            "vpn675681006.opengw.net",
-            "180.231.218.247"
+            "vpn159457490.opengw.net",
+            "113.197.177.220"
         ],
         [
-            "86 sessions",
-            "5 days",
-            "Total 390,858 users"
+            "52 sessions",
+            "3 days",
+            "Total 127,986 users"
         ],
         [
-            "583.57 Mbps",
-            "Ping: 59 ms",
-            "32,646.04 GB",
+            "58.57 Mbps",
+            "Ping: 3 ms",
+            "10,938.78 GB",
             "Logging policy:",
             "2 Weeks"
         ],
         [
             "SSL-VPN",
-            "TCP: 995",
+            "TCP: 1477",
             "UDP: Supported"
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn675681006.opengw.net&ip=180.231.218.247&tcp=995&udp=1195&sid=1716543292992&hid=19979063",
+            "do_openvpn.aspx?fqdn=vpn159457490.opengw.net&ip=113.197.177.220&tcp=1477&udp=0&sid=1716544498130&hid=19004121",
             "OpenVPN",
-            "TCP: 995",
-            "UDP: 1195"
+            "TCP: 1477"
         ],
         [
             "MS-SSTP",
-            "vpn675681006.opengw.net:995"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
-        ],
-        [
-            "vpn355175407.opengw.net",
-            "125.129.67.43"
-        ],
-        [
-            "38 sessions",
-            "4 days",
-            "Total 508,964 users"
-        ],
-        [
-            "82.03 Mbps",
-            "Ping: 32 ms",
-            "44,631.53 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 995",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn355175407.opengw.net&ip=125.129.67.43&tcp=995&udp=1195&sid=1716543292992&hid=13339435",
-            "OpenVPN",
-            "TCP: 995",
-            "UDP: 1195"
-        ],
-        [
-            "MS-SSTP",
-            "vpn355175407.opengw.net:995"
+            "vpn159457490.opengw.net:1477"
         ],
         ""
     ],
@@ -791,14 +866,14 @@
             "(familia2025.ddns.net)"
         ],
         [
-            "133 sessions",
+            "149 sessions",
             "6 days",
-            "Total 4,268,457 users"
+            "Total 4,268,642 users"
         ],
         [
-            "9.08 Mbps",
-            "Ping: 125 ms",
-            "142,921.04 GB",
+            "11.03 Mbps",
+            "Ping: 48 ms",
+            "142,937.61 GB",
             "Logging policy:",
             "2 Weeks"
         ],
@@ -808,7 +883,7 @@
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=familia2025.opengw.net&ip=85.117.235.136&tcp=996&udp=1196&sid=1716543292992&hid=11611482",
+            "do_openvpn.aspx?fqdn=familia2025.opengw.net&ip=85.117.235.136&tcp=996&udp=1196&sid=1716544498130&hid=11611482",
             "OpenVPN",
             "TCP: 996",
             "UDP: 1196"
@@ -825,35 +900,36 @@
             "Japan"
         ],
         [
-            "vpn204635782.opengw.net",
-            "126.114.180.134"
+            "vpn152350709.opengw.net",
+            "126.159.87.12"
         ],
         [
             "48 sessions",
             "2 days",
-            "Total 37,172 users"
+            "Total 5,296 users"
         ],
         [
-            "405.13 Mbps",
-            "Ping: 3 ms",
-            "5,498.26 GB",
+            "110.26 Mbps",
+            "Ping: 21 ms",
+            "410.47 GB",
             "Logging policy:",
             "2 Weeks"
         ],
         [
             "SSL-VPN",
-            "TCP: 1441",
+            "TCP: 1256",
             "UDP: Supported"
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn204635782.opengw.net&ip=126.114.180.134&tcp=1441&udp=0&sid=1716543292992&hid=21443379",
+            "do_openvpn.aspx?fqdn=vpn152350709.opengw.net&ip=126.159.87.12&tcp=1256&udp=1312&sid=1716544498130&hid=21934450",
             "OpenVPN",
-            "TCP: 1441"
+            "TCP: 1256",
+            "UDP: 1312"
         ],
         [
             "MS-SSTP",
-            "vpn204635782.opengw.net:1441"
+            "vpn152350709.opengw.net:1256"
         ],
         ""
     ],
@@ -863,36 +939,191 @@
             "Japan"
         ],
         [
-            "vpn120024892.opengw.net",
-            "121.119.72.205"
+            "vpn329383351.opengw.net",
+            "160.86.5.188"
         ],
         [
-            "30 sessions",
+            "48 sessions",
             "2 days",
-            "Total 141,080 users"
+            "Total 435,841 users"
         ],
         [
-            "80.56 Mbps",
-            "Ping: 7 ms",
-            "12,010.58 GB",
+            "237.62 Mbps",
+            "Ping: 4 ms",
+            "56,346.68 GB",
             "Logging policy:",
             "2 Weeks"
         ],
         [
             "SSL-VPN",
-            "TCP: 1787",
+            "TCP: 1705",
             "UDP: Supported"
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn120024892.opengw.net&ip=121.119.72.205&tcp=1787&udp=1372&sid=1716543292992&hid=17978214",
+            "do_openvpn.aspx?fqdn=vpn329383351.opengw.net&ip=160.86.5.188&tcp=1705&udp=1868&sid=1716544498130&hid=15264090",
             "OpenVPN",
-            "TCP: 1787",
-            "UDP: 1372"
+            "TCP: 1705",
+            "UDP: 1868"
         ],
         [
             "MS-SSTP",
-            "vpn120024892.opengw.net:1787"
+            "vpn329383351.opengw.net:1705"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/JP.png",
+            "Japan"
+        ],
+        [
+            "vpn136065270.opengw.net",
+            "126.67.234.90"
+        ],
+        [
+            "48 sessions",
+            "2 days",
+            "Total 69,935 users"
+        ],
+        [
+            "425.01 Mbps",
+            "Ping: 3 ms",
+            "11,222.25 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1546",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn136065270.opengw.net&ip=126.67.234.90&tcp=1546&udp=0&sid=1716544498130&hid=21300910",
+            "OpenVPN",
+            "TCP: 1546"
+        ],
+        [
+            "MS-SSTP",
+            "vpn136065270.opengw.net:1546"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/JP.png",
+            "Japan"
+        ],
+        [
+            "vpn318839044.opengw.net",
+            "124.97.80.30"
+        ],
+        [
+            "40 sessions",
+            "2 days",
+            "Total 7,604 users"
+        ],
+        [
+            "373.53 Mbps",
+            "Ping: 11 ms",
+            "682.01 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1781",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn318839044.opengw.net&ip=124.97.80.30&tcp=1781&udp=1459&sid=1716544498130&hid=21867480",
+            "OpenVPN",
+            "TCP: 1781",
+            "UDP: 1459"
+        ],
+        [
+            "MS-SSTP",
+            "vpn318839044.opengw.net:1781"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn329527388.opengw.net",
+            "125.132.101.174"
+        ],
+        [
+            "47 sessions",
+            "2 days",
+            "Total 51,599 users"
+        ],
+        [
+            "90.79 Mbps",
+            "Ping: 29 ms",
+            "4,188.55 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1981",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn329527388.opengw.net&ip=125.132.101.174&tcp=1981&udp=1867&sid=1716544498130&hid=17240675",
+            "OpenVPN",
+            "TCP: 1981",
+            "UDP: 1867"
+        ],
+        [
+            "MS-SSTP",
+            "vpn329527388.opengw.net:1981"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn869957080.opengw.net",
+            "1.229.53.163"
+        ],
+        [
+            "63 sessions",
+            "2 days",
+            "Total 61,066 users"
+        ],
+        [
+            "71.58 Mbps",
+            "Ping: 29 ms",
+            "5,138.73 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1527",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn869957080.opengw.net&ip=1.229.53.163&tcp=1527&udp=1361&sid=1716544498130&hid=20338634",
+            "OpenVPN",
+            "TCP: 1527",
+            "UDP: 1361"
+        ],
+        [
+            "MS-SSTP",
+            "vpn869957080.opengw.net:1527"
         ],
         ""
     ],
@@ -924,7 +1155,7 @@
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn481313038.opengw.net&ip=119.198.116.112&tcp=995&udp=1195&sid=1716543292992&hid=21309697",
+            "do_openvpn.aspx?fqdn=vpn481313038.opengw.net&ip=119.198.116.112&tcp=995&udp=1195&sid=1716544498130&hid=21309697",
             "OpenVPN",
             "TCP: 995",
             "UDP: 1195"
@@ -937,117 +1168,79 @@
     ],
     [
         [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
+            "..\/images\/flags\/JP.png",
+            "Japan"
         ],
         [
-            "vpn227656524.opengw.net",
-            "118.32.188.78"
+            "vpn999934323.opengw.net",
+            "119.231.166.171",
+            "(119-231-166-171f1.shg1.eonet.ne.jp)"
         ],
         [
-            "24 sessions",
-            "2 days",
-            "Total 196,689 users"
-        ],
-        [
-            "90.19 Mbps",
-            "Ping: 30 ms",
-            "16,066.25 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 995",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn227656524.opengw.net&ip=118.32.188.78&tcp=995&udp=1486&sid=1716543292992&hid=16599432",
-            "OpenVPN",
-            "TCP: 995",
-            "UDP: 1486"
-        ],
-        [
-            "MS-SSTP",
-            "vpn227656524.opengw.net:995"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
-        ],
-        [
-            "vpn566008463.opengw.net",
-            "125.132.11.19"
-        ],
-        [
-            "32 sessions",
-            "2 days",
-            "Total 49,020 users"
-        ],
-        [
-            "466.20 Mbps",
-            "Ping: 30 ms",
-            "5,194.22 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 995",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn566008463.opengw.net&ip=125.132.11.19&tcp=995&udp=1195&sid=1716543292992&hid=21387456",
-            "OpenVPN",
-            "TCP: 995",
-            "UDP: 1195"
-        ],
-        [
-            "MS-SSTP",
-            "vpn566008463.opengw.net:995"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/VN.png",
-            "Viet Nam"
-        ],
-        [
-            "vpn736079817.opengw.net",
-            "118.70.118.133"
-        ],
-        [
-            "74 sessions",
+            "76 sessions",
             "1 days",
-            "Total 229,439 users"
+            "Total 287,919 users"
         ],
         [
-            "57.02 Mbps",
-            "Ping: 20 ms",
-            "34,833.50 GB",
+            "940.39 Mbps",
+            "Ping: 4 ms",
+            "41,971.78 GB",
             "Logging policy:",
             "2 Weeks"
         ],
         [
             "SSL-VPN",
-            "TCP: 1772"
+            "TCP: 1788",
+            "UDP: Supported"
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn736079817.opengw.net&ip=118.70.118.133&tcp=1772&udp=1584&sid=1716543292992&hid=19808760",
+            "do_openvpn.aspx?fqdn=vpn999934323.opengw.net&ip=119.231.166.171&tcp=1788&udp=1272&sid=1716544498130&hid=20836020",
             "OpenVPN",
-            "TCP: 1772",
-            "UDP: 1584"
+            "TCP: 1788",
+            "UDP: 1272"
         ],
         [
             "MS-SSTP",
-            "vpn736079817.opengw.net:1772"
+            "vpn999934323.opengw.net:1788"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn929731416.opengw.net",
+            "203.142.160.85"
+        ],
+        [
+            "4 sessions",
+            "2 days",
+            "Total 5,981 users"
+        ],
+        [
+            "90.97 Mbps",
+            "Ping: 42 ms",
+            "227.66 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1649",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn929731416.opengw.net&ip=203.142.160.85&tcp=1649&udp=0&sid=1716544498130&hid=21798196",
+            "OpenVPN",
+            "TCP: 1649"
+        ],
+        [
+            "MS-SSTP",
+            "vpn929731416.opengw.net:1649"
         ],
         ""
     ],
@@ -1057,36 +1250,37 @@
             "Japan"
         ],
         [
-            "vpn682669648.opengw.net",
-            "106.156.34.39",
-            "(KD106156034039.ppp-bb.dion.ne.jp)"
+            "vpn160834368.opengw.net",
+            "211.132.88.48",
+            "(opt-211-132-88-48.client.pikara.ne.jp)"
         ],
         [
-            "59 sessions",
+            "25 sessions",
             "1 days",
-            "Total 107,377 users"
+            "Total 11,953 users"
         ],
         [
-            "576.46 Mbps",
-            "Ping: 15 ms",
-            "19,431.59 GB",
+            "95.89 Mbps",
+            "Ping: 9 ms",
+            "1,044.32 GB",
             "Logging policy:",
             "2 Weeks"
         ],
         [
             "SSL-VPN",
-            "TCP: 1408",
+            "TCP: 1576",
             "UDP: Supported"
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn682669648.opengw.net&ip=106.156.34.39&tcp=1408&udp=0&sid=1716543292992&hid=20947959",
+            "do_openvpn.aspx?fqdn=vpn160834368.opengw.net&ip=211.132.88.48&tcp=1576&udp=1281&sid=1716544498130&hid=20099252",
             "OpenVPN",
-            "TCP: 1408"
+            "TCP: 1576",
+            "UDP: 1281"
         ],
         [
             "MS-SSTP",
-            "vpn682669648.opengw.net:1408"
+            "vpn160834368.opengw.net:1576"
         ],
         ""
     ],
@@ -1096,36 +1290,36 @@
             "United States"
         ],
         [
-            "vpn174383557.opengw.net",
-            "76.146.177.116"
+            "vpn740277392.opengw.net",
+            "24.130.48.132"
         ],
         [
-            "45 sessions",
-            "0 mins",
-            "Total 25,380 users"
+            "36 sessions",
+            "6 days",
+            "Total 47,343 users"
         ],
         [
-            "0.00 Mbps",
-            "Ping: 14 ms",
-            "422.52 GB",
+            "156.83 Mbps",
+            "Ping: -",
+            "493.98 GB",
             "Logging policy:",
             "2 Weeks"
         ],
         [
             "SSL-VPN",
-            "TCP: 1977",
+            "TCP: 1556",
             "UDP: Supported"
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn174383557.opengw.net&ip=76.146.177.116&tcp=1977&udp=1729&sid=1716543292992&hid=20115082",
+            "do_openvpn.aspx?fqdn=vpn740277392.opengw.net&ip=24.130.48.132&tcp=1556&udp=1976&sid=1716544498130&hid=9176659",
             "OpenVPN",
-            "TCP: 1977",
-            "UDP: 1729"
+            "TCP: 1556",
+            "UDP: 1976"
         ],
         [
             "MS-SSTP",
-            "vpn174383557.opengw.net:1977"
+            "vpn740277392.opengw.net:1556"
         ],
         ""
     ],
@@ -1135,18 +1329,18 @@
             "Korea Republic of"
         ],
         [
-            "vpn861073050.opengw.net",
-            "121.135.194.167"
+            "vpn461833750.opengw.net",
+            "121.135.99.174"
         ],
         [
             "36 sessions",
-            "2 days",
-            "Total 481,351 users"
+            "1 days",
+            "Total 40,838 users"
         ],
         [
-            "423.10 Mbps",
-            "Ping: 37 ms",
-            "43,176.34 GB",
+            "84.50 Mbps",
+            "Ping: 27 ms",
+            "3,671.79 GB",
             "Logging policy:",
             "2 Weeks"
         ],
@@ -1157,54 +1351,14 @@
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn861073050.opengw.net&ip=121.135.194.167&tcp=995&udp=1195&sid=1716543292992&hid=19660146",
+            "do_openvpn.aspx?fqdn=vpn461833750.opengw.net&ip=121.135.99.174&tcp=995&udp=1195&sid=1716544498130&hid=20870505",
             "OpenVPN",
             "TCP: 995",
             "UDP: 1195"
         ],
         [
             "MS-SSTP",
-            "vpn861073050.opengw.net:995"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/JP.png",
-            "Japan"
-        ],
-        [
-            "vpn748367065.opengw.net",
-            "60.150.170.138",
-            "(softbank060150170138.bbtec.net)"
-        ],
-        [
-            "19 sessions",
-            "1 days",
-            "Total 293,335 users"
-        ],
-        [
-            "93.23 Mbps",
-            "Ping: 7 ms",
-            "10,800.73 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1642",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn748367065.opengw.net&ip=60.150.170.138&tcp=1642&udp=1450&sid=1716543292992&hid=17735686",
-            "OpenVPN",
-            "TCP: 1642",
-            "UDP: 1450"
-        ],
-        [
-            "MS-SSTP",
-            "vpn748367065.opengw.net:1642"
+            "vpn461833750.opengw.net:995"
         ],
         ""
     ],
@@ -1214,36 +1368,36 @@
             "Korea Republic of"
         ],
         [
-            "vpn315651781.opengw.net",
-            "49.142.62.211"
+            "vpn574423072.opengw.net",
+            "211.198.253.233"
         ],
         [
-            "8 sessions",
+            "33 sessions",
             "1 days",
-            "Total 59,625 users"
+            "Total 76,695 users"
         ],
         [
-            "84.68 Mbps",
-            "Ping: 31 ms",
-            "8,207.93 GB",
+            "41.29 Mbps",
+            "Ping: 25 ms",
+            "7,917.44 GB",
             "Logging policy:",
             "2 Weeks"
         ],
         [
             "SSL-VPN",
-            "TCP: 1492",
+            "TCP: 1815",
             "UDP: Supported"
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn315651781.opengw.net&ip=49.142.62.211&tcp=1492&udp=1697&sid=1716543292992&hid=19211378",
+            "do_openvpn.aspx?fqdn=vpn574423072.opengw.net&ip=211.198.253.233&tcp=1815&udp=1853&sid=1716544498130&hid=20772680",
             "OpenVPN",
-            "TCP: 1492",
-            "UDP: 1697"
+            "TCP: 1815",
+            "UDP: 1853"
         ],
         [
             "MS-SSTP",
-            "vpn315651781.opengw.net:1492"
+            "vpn574423072.opengw.net:1815"
         ],
         ""
     ],
@@ -1253,36 +1407,35 @@
             "Korea Republic of"
         ],
         [
-            "vpn577839227.opengw.net",
-            "121.88.240.76"
+            "vpn365046830.opengw.net",
+            "121.169.184.9"
         ],
         [
-            "15 sessions",
+            "11 sessions",
             "1 days",
-            "Total 36,370 users"
+            "Total 56,517 users"
         ],
         [
-            "85.37 Mbps",
-            "Ping: 38 ms",
-            "1,724.95 GB",
+            "85.24 Mbps",
+            "Ping: 27 ms",
+            "4,859.05 GB",
             "Logging policy:",
             "2 Weeks"
         ],
         [
             "SSL-VPN",
-            "TCP: 1597",
+            "TCP: 1723",
             "UDP: Supported"
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn577839227.opengw.net&ip=121.88.240.76&tcp=1597&udp=1577&sid=1716543292992&hid=19429781",
+            "do_openvpn.aspx?fqdn=vpn365046830.opengw.net&ip=121.169.184.9&tcp=1723&udp=0&sid=1716544498130&hid=18793298",
             "OpenVPN",
-            "TCP: 1597",
-            "UDP: 1577"
+            "TCP: 1723"
         ],
         [
             "MS-SSTP",
-            "vpn577839227.opengw.net:1597"
+            "vpn365046830.opengw.net:1723"
         ],
         ""
     ],
@@ -1296,14 +1449,14 @@
             "60.153.193.239"
         ],
         [
-            "46 sessions",
-            "17 hours",
-            "Total 274,071 users"
+            "40 sessions",
+            "21 hours",
+            "Total 274,113 users"
         ],
         [
             "158.81 Mbps",
             "Ping: 12 ms",
-            "19,071.41 GB",
+            "19,073.31 GB",
             "Logging policy:",
             "2 Weeks"
         ],
@@ -1314,10 +1467,9 @@
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn479781942.opengw.net&ip=60.153.193.239&tcp=1539&udp=1220&sid=1716543292992&hid=20926433",
+            "do_openvpn.aspx?fqdn=vpn479781942.opengw.net&ip=60.153.193.239&tcp=1539&udp=0&sid=1716544498130&hid=20926433",
             "OpenVPN",
-            "TCP: 1539",
-            "UDP: 1220"
+            "TCP: 1539"
         ],
         [
             "MS-SSTP",
@@ -1327,157 +1479,40 @@
     ],
     [
         [
-            "..\/images\/flags\/JP.png",
-            "Japan"
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
         ],
         [
-            "vpn712267536.opengw.net",
-            "126.11.198.160",
-            "(softbank126011198160.bbtec.net)"
-        ],
-        [
-            "59 sessions",
-            "17 hours",
-            "Total 1,866 users"
-        ],
-        [
-            "316.85 Mbps",
-            "Ping: 5 ms",
-            "406.55 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1648",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn712267536.opengw.net&ip=126.11.198.160&tcp=1648&udp=1751&sid=1716543292992&hid=21983716",
-            "OpenVPN",
-            "TCP: 1648",
-            "UDP: 1751"
-        ],
-        [
-            "MS-SSTP",
-            "vpn712267536.opengw.net:1648"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/JP.png",
-            "Japan"
-        ],
-        [
-            "vpn481359948.opengw.net",
-            "154.8.62.222"
-        ],
-        [
-            "22 sessions",
-            "12 hours",
-            "Total 263,368 users"
-        ],
-        [
-            "90.76 Mbps",
-            "Ping: 4 ms",
-            "25,490.34 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1600"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn481359948.opengw.net&ip=154.8.62.222&tcp=1600&udp=1884&sid=1716543292992&hid=20092381",
-            "OpenVPN",
-            "TCP: 1600",
-            "UDP: 1884"
-        ],
-        [
-            "MS-SSTP",
-            "vpn481359948.opengw.net:1600"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/JP.png",
-            "Japan"
-        ],
-        [
-            "vpn109774081.opengw.net",
-            "58.3.181.177"
+            "vpn234505029.opengw.net",
+            "1.239.186.222"
         ],
         [
             "2 sessions",
-            "12 hours",
-            "Total 108,682 users"
+            "1 days",
+            "Total 5,783 users"
         ],
         [
-            "714.66 Mbps",
-            "Ping: 18 ms",
-            "939.72 GB",
+            "89.07 Mbps",
+            "Ping: 29 ms",
+            "480.41 GB",
             "Logging policy:",
             "2 Weeks"
         ],
         [
             "SSL-VPN",
-            "TCP: 1987",
+            "TCP: 1580",
             "UDP: Supported"
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn109774081.opengw.net&ip=58.3.181.177&tcp=1987&udp=1597&sid=1716543292992&hid=21284866",
+            "do_openvpn.aspx?fqdn=vpn234505029.opengw.net&ip=1.239.186.222&tcp=1580&udp=1341&sid=1716544498130&hid=21812142",
             "OpenVPN",
-            "TCP: 1987",
-            "UDP: 1597"
+            "TCP: 1580",
+            "UDP: 1341"
         ],
         [
             "MS-SSTP",
-            "vpn109774081.opengw.net:1987"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/JP.png",
-            "Japan"
-        ],
-        [
-            "vpn697966134.opengw.net",
-            "121.85.109.105"
-        ],
-        [
-            "26 sessions",
-            "0 mins",
-            "Total 139,884 users"
-        ],
-        [
-            "618.19 Mbps",
-            "Ping: 3 ms",
-            "18,417.68 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1536",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn697966134.opengw.net&ip=121.85.109.105&tcp=1536&udp=1254&sid=1716543292992&hid=20942094",
-            "OpenVPN",
-            "TCP: 1536",
-            "UDP: 1254"
-        ],
-        [
-            "MS-SSTP",
-            "vpn697966134.opengw.net:1536"
+            "vpn234505029.opengw.net:1580"
         ],
         ""
     ],
@@ -1487,36 +1522,36 @@
             "Korea Republic of"
         ],
         [
-            "vpn746262353.opengw.net",
-            "211.204.146.114"
+            "vpn439917920.opengw.net",
+            "58.237.237.172"
         ],
         [
-            "24 sessions",
+            "16 sessions",
             "1 days",
-            "Total 10,459 users"
+            "Total 80,420 users"
         ],
         [
-            "176.47 Mbps",
-            "Ping: 151 ms",
-            "553.42 GB",
+            "460.73 Mbps",
+            "Ping: 36 ms",
+            "7,369.36 GB",
             "Logging policy:",
             "2 Weeks"
         ],
         [
             "SSL-VPN",
-            "TCP: 995",
+            "TCP: 1202",
             "UDP: Supported"
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn746262353.opengw.net&ip=211.204.146.114&tcp=995&udp=1195&sid=1716543292992&hid=20781971",
+            "do_openvpn.aspx?fqdn=vpn439917920.opengw.net&ip=58.237.237.172&tcp=1202&udp=1597&sid=1716544498130&hid=20609345",
             "OpenVPN",
-            "TCP: 995",
-            "UDP: 1195"
+            "TCP: 1202",
+            "UDP: 1597"
         ],
         [
             "MS-SSTP",
-            "vpn746262353.opengw.net:995"
+            "vpn439917920.opengw.net:1202"
         ],
         ""
     ],
@@ -1526,36 +1561,153 @@
             "Japan"
         ],
         [
-            "vpn968008151.opengw.net",
-            "221.132.159.245"
+            "vpn665788118.opengw.net",
+            "60.61.239.22"
         ],
         [
-            "21 sessions",
-            "0 mins",
-            "Total 35,439 users"
+            "15 sessions",
+            "16 hours",
+            "Total 72,967 users"
         ],
         [
-            "237.77 Mbps",
-            "Ping: 16 ms",
-            "2,210.38 GB",
+            "268.62 Mbps",
+            "Ping: 21 ms",
+            "4,552.78 GB",
             "Logging policy:",
             "2 Weeks"
         ],
         [
             "SSL-VPN",
-            "TCP: 1826",
+            "TCP: 1821",
             "UDP: Supported"
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn968008151.opengw.net&ip=221.132.159.245&tcp=1826&udp=1985&sid=1716543292992&hid=19696053",
+            "do_openvpn.aspx?fqdn=vpn665788118.opengw.net&ip=60.61.239.22&tcp=1821&udp=1992&sid=1716544498130&hid=18758796",
             "OpenVPN",
-            "TCP: 1826",
-            "UDP: 1985"
+            "TCP: 1821",
+            "UDP: 1992"
         ],
         [
             "MS-SSTP",
-            "vpn968008151.opengw.net:1826"
+            "vpn665788118.opengw.net:1821"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/JP.png",
+            "Japan"
+        ],
+        [
+            "vpn614029072.opengw.net",
+            "126.60.216.242"
+        ],
+        [
+            "33 sessions",
+            "16 hours",
+            "Total 221,697 users"
+        ],
+        [
+            "287.82 Mbps",
+            "Ping: 2 ms",
+            "28,596.45 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1573",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn614029072.opengw.net&ip=126.60.216.242&tcp=1573&udp=1938&sid=1716544498130&hid=18875038",
+            "OpenVPN",
+            "TCP: 1573",
+            "UDP: 1938"
+        ],
+        [
+            "MS-SSTP",
+            "vpn614029072.opengw.net:1573"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/JP.png",
+            "Japan"
+        ],
+        [
+            "vpn507416836.opengw.net",
+            "58.188.154.171",
+            "(58-188-154-171f1.osk2.eonet.ne.jp)"
+        ],
+        [
+            "5 sessions",
+            "16 hours",
+            "Total 370,007 users"
+        ],
+        [
+            "496.23 Mbps",
+            "Ping: 3 ms",
+            "60,331.39 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1483",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn507416836.opengw.net&ip=58.188.154.171&tcp=1483&udp=1809&sid=1716544498130&hid=15842447",
+            "OpenVPN",
+            "TCP: 1483",
+            "UDP: 1809"
+        ],
+        [
+            "MS-SSTP",
+            "vpn507416836.opengw.net:1483"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/JP.png",
+            "Japan"
+        ],
+        [
+            "vpn923661831.opengw.net",
+            "114.172.92.4"
+        ],
+        [
+            "42 sessions",
+            "21 hours",
+            "Total 1,117,800 users"
+        ],
+        [
+            "90.29 Mbps",
+            "Ping: 7 ms",
+            "51,258.57 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1304",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn923661831.opengw.net&ip=114.172.92.4&tcp=1304&udp=0&sid=1716544498130&hid=19443339",
+            "OpenVPN",
+            "TCP: 1304"
+        ],
+        [
+            "MS-SSTP",
+            "vpn923661831.opengw.net:1304"
         ],
         ""
     ],
@@ -1565,74 +1717,152 @@
             "Indonesia"
         ],
         [
-            "vpn893007828.opengw.net",
-            "103.125.40.127"
+            "vpn177210764.opengw.net",
+            "118.136.249.149"
         ],
         [
-            "23 sessions",
-            "0 mins",
-            "Total 248,702 users"
+            "47 sessions",
+            "21 hours",
+            "Total 7,663 users"
         ],
         [
-            "146.48 Mbps",
-            "Ping: 13 ms",
-            "9,931.86 GB",
+            "60.80 Mbps",
+            "Ping: 26 ms",
+            "377.20 GB",
             "Logging policy:",
             "2 Weeks"
         ],
         [
             "SSL-VPN",
-            "TCP: 1488"
+            "TCP: 1658",
+            "UDP: Supported"
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn893007828.opengw.net&ip=103.125.40.127&tcp=1488&udp=1454&sid=1716543292992&hid=20475684",
+            "do_openvpn.aspx?fqdn=vpn177210764.opengw.net&ip=118.136.249.149&tcp=1658&udp=1531&sid=1716544498130&hid=21928519",
             "OpenVPN",
-            "TCP: 1488",
-            "UDP: 1454"
+            "TCP: 1658",
+            "UDP: 1531"
         ],
         [
             "MS-SSTP",
-            "vpn893007828.opengw.net:1488"
+            "vpn177210764.opengw.net:1658"
         ],
         ""
     ],
     [
         [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
+            "..\/images\/flags\/JP.png",
+            "Japan"
         ],
         [
-            "vpn240061180.opengw.net",
-            "218.233.119.19"
+            "vpn842475250.opengw.net",
+            "126.27.253.22"
         ],
         [
-            "27 sessions",
-            "17 hours",
-            "Total 139,547 users"
+            "5 sessions",
+            "16 hours",
+            "Total 2,674 users"
         ],
         [
-            "496.04 Mbps",
-            "Ping: 33 ms",
-            "18,322.05 GB",
+            "217.91 Mbps",
+            "Ping: 4 ms",
+            "385.04 GB",
             "Logging policy:",
             "2 Weeks"
         ],
         [
             "SSL-VPN",
-            "TCP: 1285",
+            "TCP: 1461",
             "UDP: Supported"
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn240061180.opengw.net&ip=218.233.119.19&tcp=1285&udp=1639&sid=1716543292992&hid=19807600",
+            "do_openvpn.aspx?fqdn=vpn842475250.opengw.net&ip=126.27.253.22&tcp=1461&udp=1328&sid=1716544498130&hid=21809302",
             "OpenVPN",
-            "TCP: 1285",
-            "UDP: 1639"
+            "TCP: 1461",
+            "UDP: 1328"
         ],
         [
             "MS-SSTP",
-            "vpn240061180.opengw.net:1285"
+            "vpn842475250.opengw.net:1461"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/JP.png",
+            "Japan"
+        ],
+        [
+            "vpn107081375.opengw.net",
+            "125.195.96.60"
+        ],
+        [
+            "30 sessions",
+            "16 hours",
+            "Total 8,952 users"
+        ],
+        [
+            "370.16 Mbps",
+            "Ping: 6 ms",
+            "1,043.87 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1260",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn107081375.opengw.net&ip=125.195.96.60&tcp=1260&udp=1994&sid=1716544498130&hid=21595009",
+            "OpenVPN",
+            "TCP: 1260",
+            "UDP: 1994"
+        ],
+        [
+            "MS-SSTP",
+            "vpn107081375.opengw.net:1260"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/JP.png",
+            "Japan"
+        ],
+        [
+            "vpn538682921.opengw.net",
+            "121.111.149.145"
+        ],
+        [
+            "10 sessions",
+            "16 hours",
+            "Total 8,706 users"
+        ],
+        [
+            "50.81 Mbps",
+            "Ping: 7 ms",
+            "762.93 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1358",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn538682921.opengw.net&ip=121.111.149.145&tcp=1358&udp=0&sid=1716544498130&hid=17418590",
+            "OpenVPN",
+            "TCP: 1358"
+        ],
+        [
+            "MS-SSTP",
+            "vpn538682921.opengw.net:1358"
         ],
         ""
     ],
@@ -1646,25 +1876,24 @@
             "42.119.220.236"
         ],
         [
-            "16 sessions",
-            "17 hours",
-            "Total 17,276 users"
+            "20 sessions",
+            "21 hours",
+            "Total 17,337 users"
         ],
         [
             "36.91 Mbps",
             "Ping: 31 ms",
-            "1,968.20 GB",
+            "1,975.22 GB",
             "Logging policy:",
             "2 Weeks"
         ],
         [
             "SSL-VPN",
-            "TCP: 1864",
-            "UDP: Supported"
+            "TCP: 1864"
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn813431395.opengw.net&ip=42.119.220.236&tcp=1864&udp=1704&sid=1716543292992&hid=21831182",
+            "do_openvpn.aspx?fqdn=vpn813431395.opengw.net&ip=42.119.220.236&tcp=1864&udp=1704&sid=1716544498130&hid=21831182",
             "OpenVPN",
             "TCP: 1864",
             "UDP: 1704"
@@ -1677,118 +1906,40 @@
     ],
     [
         [
-            "..\/images\/flags\/JP.png",
-            "Japan"
+            "..\/images\/flags\/VN.png",
+            "Viet Nam"
         ],
         [
-            "vpn219242937.opengw.net",
-            "59.135.174.193"
+            "vpn171814172.opengw.net",
+            "1.52.253.91"
         ],
         [
-            "15 sessions",
-            "0 mins",
-            "Total 90,839 users"
+            "40 sessions",
+            "21 hours",
+            "Total 42,509 users"
         ],
         [
-            "83.04 Mbps",
-            "Ping: 17 ms",
-            "5,838.36 GB",
+            "134.60 Mbps",
+            "Ping: 32 ms",
+            "7,630.76 GB",
             "Logging policy:",
             "2 Weeks"
         ],
         [
             "SSL-VPN",
-            "TCP: 1453",
+            "TCP: 1857",
             "UDP: Supported"
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn219242937.opengw.net&ip=59.135.174.193&tcp=1453&udp=1552&sid=1716543292992&hid=15703097",
+            "do_openvpn.aspx?fqdn=vpn171814172.opengw.net&ip=1.52.253.91&tcp=1857&udp=1768&sid=1716544498130&hid=18103538",
             "OpenVPN",
-            "TCP: 1453",
-            "UDP: 1552"
+            "TCP: 1857",
+            "UDP: 1768"
         ],
         [
             "MS-SSTP",
-            "vpn219242937.opengw.net:1453"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/JP.png",
-            "Japan"
-        ],
-        [
-            "vpn685569305.opengw.net",
-            "106.139.129.164"
-        ],
-        [
-            "36 sessions",
-            "0 mins",
-            "Total 11,223 users"
-        ],
-        [
-            "2,125.34 Mbps",
-            "Ping: 4 ms",
-            "3,700.13 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1257",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn685569305.opengw.net&ip=106.139.129.164&tcp=1257&udp=1833&sid=1716543292992&hid=21875397",
-            "OpenVPN",
-            "TCP: 1257",
-            "UDP: 1833"
-        ],
-        [
-            "MS-SSTP",
-            "vpn685569305.opengw.net:1257"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/CA.png",
-            "Canada"
-        ],
-        [
-            "vpn992641384.opengw.net",
-            "70.68.199.47"
-        ],
-        [
-            "10 sessions",
-            "0 mins",
-            "Total 21,369 users"
-        ],
-        [
-            "129.66 Mbps",
-            "Ping: 14 ms",
-            "1,607.06 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1608",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn992641384.opengw.net&ip=70.68.199.47&tcp=1608&udp=1802&sid=1716543292992&hid=15780349",
-            "OpenVPN",
-            "TCP: 1608",
-            "UDP: 1802"
-        ],
-        [
-            "MS-SSTP",
-            "vpn992641384.opengw.net:1608"
+            "vpn171814172.opengw.net:1857"
         ],
         ""
     ],
@@ -1803,7 +1954,7 @@
         ],
         [
             "14 sessions",
-            "17 hours",
+            "21 hours",
             "Total 10,362 users"
         ],
         [
@@ -1820,10 +1971,9 @@
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn510119981.opengw.net&ip=42.119.220.236&tcp=1591&udp=1420&sid=1716543292992&hid=21831260",
+            "do_openvpn.aspx?fqdn=vpn510119981.opengw.net&ip=42.119.220.236&tcp=1591&udp=0&sid=1716544498130&hid=21831260",
             "OpenVPN",
-            "TCP: 1591",
-            "UDP: 1420"
+            "TCP: 1591"
         ],
         [
             "MS-SSTP",
@@ -1833,79 +1983,40 @@
     ],
     [
         [
-            "..\/images\/flags\/JP.png",
-            "Japan"
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
         ],
         [
-            "vpn129297403.opengw.net",
-            "36.12.245.5",
-            "(KD036012245005.ppp-bb.dion.ne.jp)"
+            "vpn594014675.opengw.net",
+            "211.208.83.94"
         ],
         [
-            "23 sessions",
-            "0 mins",
-            "Total 19,308 users"
+            "4 sessions",
+            "21 hours",
+            "Total 255,470 users"
         ],
         [
-            "97.51 Mbps",
-            "Ping: 2 ms",
-            "3,970.91 GB",
+            "85.34 Mbps",
+            "Ping: 33 ms",
+            "10,036.41 GB",
             "Logging policy:",
             "2 Weeks"
         ],
         [
             "SSL-VPN",
-            "TCP: 1956",
+            "TCP: 1257",
             "UDP: Supported"
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn129297403.opengw.net&ip=36.12.245.5&tcp=1956&udp=0&sid=1716543292992&hid=21195761",
+            "do_openvpn.aspx?fqdn=vpn594014675.opengw.net&ip=211.208.83.94&tcp=1257&udp=1871&sid=1716544498130&hid=13026554",
             "OpenVPN",
-            "TCP: 1956"
+            "TCP: 1257",
+            "UDP: 1871"
         ],
         [
             "MS-SSTP",
-            "vpn129297403.opengw.net:1956"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/JP.png",
-            "Japan"
-        ],
-        [
-            "vpn275173737.opengw.net",
-            "121.111.82.223"
-        ],
-        [
-            "2 sessions",
-            "0 mins",
-            "Total 151,931 users"
-        ],
-        [
-            "468.06 Mbps",
-            "Ping: 11 ms",
-            "12,199.15 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1512",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn275173737.opengw.net&ip=121.111.82.223&tcp=1512&udp=1852&sid=1716543292992&hid=18171185",
-            "OpenVPN",
-            "TCP: 1512",
-            "UDP: 1852"
-        ],
-        [
-            "MS-SSTP",
-            "vpn275173737.opengw.net:1512"
+            "vpn594014675.opengw.net:1257"
         ],
         ""
     ],
@@ -1915,427 +2026,36 @@
             "Korea Republic of"
         ],
         [
-            "vpn395946840.opengw.net",
-            "106.244.147.84"
-        ],
-        [
-            "33 sessions",
-            "17 hours",
-            "Total 13,586 users"
-        ],
-        [
-            "876.81 Mbps",
-            "Ping: 36 ms",
-            "1,428.52 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1227",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn395946840.opengw.net&ip=106.244.147.84&tcp=1227&udp=1537&sid=1716543292992&hid=17520421",
-            "OpenVPN",
-            "TCP: 1227",
-            "UDP: 1537"
-        ],
-        [
-            "MS-SSTP",
-            "vpn395946840.opengw.net:1227"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
-        ],
-        [
-            "vpn955660993.opengw.net",
-            "14.51.103.245"
-        ],
-        [
-            "3 sessions",
-            "17 hours",
-            "Total 8 users"
-        ],
-        [
-            "34.13 Mbps",
-            "Ping: 37 ms",
-            "3.06 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 995",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn955660993.opengw.net&ip=14.51.103.245&tcp=995&udp=1195&sid=1716543292992&hid=21971359",
-            "OpenVPN",
-            "TCP: 995",
-            "UDP: 1195"
-        ],
-        [
-            "MS-SSTP",
-            "vpn955660993.opengw.net:995"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
-        ],
-        [
-            "vpn554869437.opengw.net",
-            "118.36.233.252"
+            "vpn441966453.opengw.net",
+            "175.210.141.76"
         ],
         [
             "20 sessions",
-            "12 hours",
-            "Total 50,765 users"
+            "16 hours",
+            "Total 470,561 users"
         ],
         [
-            "29.12 Mbps",
-            "Ping: 27 ms",
-            "6,383.68 GB",
+            "91.98 Mbps",
+            "Ping: 29 ms",
+            "40,048.66 GB",
             "Logging policy:",
             "2 Weeks"
         ],
         [
             "SSL-VPN",
-            "TCP: 1985",
+            "TCP: 995",
             "UDP: Supported"
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn554869437.opengw.net&ip=118.36.233.252&tcp=1985&udp=1574&sid=1716543292992&hid=18272195",
-            "OpenVPN",
-            "TCP: 1985",
-            "UDP: 1574"
-        ],
-        [
-            "MS-SSTP",
-            "vpn554869437.opengw.net:1985"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/JP.png",
-            "Japan"
-        ],
-        [
-            "vpn688836687.opengw.net",
-            "126.24.168.240",
-            "(softbank126024168240.bbtec.net)"
-        ],
-        [
-            "14 sessions",
-            "0 mins",
-            "Total 1,649 users"
-        ],
-        [
-            "92.88 Mbps",
-            "Ping: 5 ms",
-            "197.90 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1773",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn688836687.opengw.net&ip=126.24.168.240&tcp=1773&udp=1745&sid=1716543292992&hid=21163612",
-            "OpenVPN",
-            "TCP: 1773",
-            "UDP: 1745"
-        ],
-        [
-            "MS-SSTP",
-            "vpn688836687.opengw.net:1773"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/JP.png",
-            "Japan"
-        ],
-        [
-            "vpn551052660.opengw.net",
-            "126.11.198.160",
-            "(softbank126011198160.bbtec.net)"
-        ],
-        [
-            "15 sessions",
-            "0 mins",
-            "Total 67 users"
-        ],
-        [
-            "328.92 Mbps",
-            "Ping: 5 ms",
-            "17.78 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1423",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn551052660.opengw.net&ip=126.11.198.160&tcp=1423&udp=1999&sid=1716543292992&hid=21983725",
-            "OpenVPN",
-            "TCP: 1423",
-            "UDP: 1999"
-        ],
-        [
-            "MS-SSTP",
-            "vpn551052660.opengw.net:1423"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/JP.png",
-            "Japan"
-        ],
-        [
-            "vpn311293719.opengw.net",
-            "119.245.89.203",
-            "(pl46027.ag1212.nttpc.ne.jp)"
-        ],
-        [
-            "19 sessions",
-            "0 mins",
-            "Total 2,500 users"
-        ],
-        [
-            "545.24 Mbps",
-            "Ping: 4 ms",
-            "181.68 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1399",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn311293719.opengw.net&ip=119.245.89.203&tcp=1399&udp=0&sid=1716543292992&hid=18789716",
-            "OpenVPN",
-            "TCP: 1399"
-        ],
-        [
-            "MS-SSTP",
-            "vpn311293719.opengw.net:1399"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
-        ],
-        [
-            "vpn427228188.opengw.net",
-            "221.139.211.149"
-        ],
-        [
-            "13 sessions",
-            "12 hours",
-            "Total 35,217 users"
-        ],
-        [
-            "96.02 Mbps",
-            "Ping: 33 ms",
-            "3,670.15 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1346",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn427228188.opengw.net&ip=221.139.211.149&tcp=1346&udp=1989&sid=1716543292992&hid=15772531",
-            "OpenVPN",
-            "TCP: 1346",
-            "UDP: 1989"
-        ],
-        [
-            "MS-SSTP",
-            "vpn427228188.opengw.net:1346"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/JP.png",
-            "Japan"
-        ],
-        [
-            "vpn385455528.opengw.net",
-            "126.4.160.250"
-        ],
-        [
-            "13 sessions",
-            "0 mins",
-            "Total 178,207 users"
-        ],
-        [
-            "92.93 Mbps",
-            "Ping: 2 ms",
-            "16,428.73 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1813",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn385455528.opengw.net&ip=126.4.160.250&tcp=1813&udp=1528&sid=1716543292992&hid=19729070",
-            "OpenVPN",
-            "TCP: 1813",
-            "UDP: 1528"
-        ],
-        [
-            "MS-SSTP",
-            "vpn385455528.opengw.net:1813"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
-        ],
-        [
-            "vpn136406012.opengw.net",
-            "220.84.239.34"
-        ],
-        [
-            "11 sessions",
-            "0 mins",
-            "Total 33,674 users"
-        ],
-        [
-            "351.64 Mbps",
-            "Ping: 25 ms",
-            "4,882.87 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1637",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn136406012.opengw.net&ip=220.84.239.34&tcp=1637&udp=1241&sid=1716543292992&hid=18503981",
-            "OpenVPN",
-            "TCP: 1637",
-            "UDP: 1241"
-        ],
-        [
-            "MS-SSTP",
-            "vpn136406012.opengw.net:1637"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/VN.png",
-            "Viet Nam"
-        ],
-        [
-            "vpn807488487.opengw.net",
-            "118.68.175.83"
-        ],
-        [
-            "14 sessions",
-            "0 mins",
-            "Total 2,730 users"
-        ],
-        [
-            "528.10 Mbps",
-            "Ping: 22 ms",
-            "355.34 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1772",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn807488487.opengw.net&ip=118.68.175.83&tcp=1772&udp=1642&sid=1716543292992&hid=21936358",
-            "OpenVPN",
-            "TCP: 1772",
-            "UDP: 1642"
-        ],
-        [
-            "MS-SSTP",
-            "vpn807488487.opengw.net:1772"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
-        ],
-        [
-            "vpn996922838.opengw.net",
-            "59.29.223.120"
-        ],
-        [
-            "4 sessions",
-            "1 days",
-            "Total 14,140 users"
-        ],
-        [
-            "16.55 Mbps",
-            "Ping: 30 ms",
-            "923.27 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 995"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn996922838.opengw.net&ip=59.29.223.120&tcp=995&udp=1195&sid=1716543292992&hid=21516931",
+            "do_openvpn.aspx?fqdn=vpn441966453.opengw.net&ip=175.210.141.76&tcp=995&udp=1195&sid=1716544498130&hid=17765823",
             "OpenVPN",
             "TCP: 995",
             "UDP: 1195"
         ],
         [
             "MS-SSTP",
-            "vpn996922838.opengw.net:995"
+            "vpn441966453.opengw.net:995"
         ],
         ""
     ],
@@ -2345,736 +2065,75 @@
             "Japan"
         ],
         [
-            "vpn927738099.opengw.net",
-            "126.203.41.66",
-            "(softbank126203041066.bbtec.net)"
-        ],
-        [
-            "11 sessions",
-            "0 mins",
-            "Total 3,314 users"
-        ],
-        [
-            "86.77 Mbps",
-            "Ping: 25 ms",
-            "352.86 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1375",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn927738099.opengw.net&ip=126.203.41.66&tcp=1375&udp=1339&sid=1716543292992&hid=21521592",
-            "OpenVPN",
-            "TCP: 1375",
-            "UDP: 1339"
-        ],
-        [
-            "MS-SSTP",
-            "vpn927738099.opengw.net:1375"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/RU.png",
-            "Russian Federation"
-        ],
-        [
-            "vpn608392883.opengw.net",
-            "94.19.44.242"
-        ],
-        [
-            "4 sessions",
-            "0 mins",
-            "Total 0 users"
-        ],
-        [
-            "73.97 Mbps",
-            "Ping: 4 ms",
-            "0.00 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1284",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn608392883.opengw.net&ip=94.19.44.242&tcp=1284&udp=1244&sid=1716543292992&hid=21975949",
-            "OpenVPN",
-            "TCP: 1284",
-            "UDP: 1244"
-        ],
-        [
-            "MS-SSTP",
-            "vpn608392883.opengw.net:1284"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
-        ],
-        [
-            "vpn508965699.opengw.net",
-            "221.165.74.116"
-        ],
-        [
-            "22 sessions",
-            "0 mins",
-            "Total 23,864 users"
-        ],
-        [
-            "779.62 Mbps",
-            "Ping: 27 ms",
-            "5,011.01 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 995",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn508965699.opengw.net&ip=221.165.74.116&tcp=995&udp=1195&sid=1716543292992&hid=20852842",
-            "OpenVPN",
-            "TCP: 995",
-            "UDP: 1195"
-        ],
-        [
-            "MS-SSTP",
-            "vpn508965699.opengw.net:995"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/JP.png",
-            "Japan"
-        ],
-        [
-            "vpn587443230.opengw.net",
-            "221.170.117.228",
-            "(FL1-221-170-117-228.hkd.mesh.ad.jp)"
+            "vpn416641003.opengw.net",
+            "114.156.243.238"
         ],
         [
             "16 sessions",
             "0 mins",
-            "Total 558 users"
+            "Total 590 users"
         ],
         [
-            "278.19 Mbps",
-            "Ping: 23 ms",
-            "47.30 GB",
+            "84.75 Mbps",
+            "Ping: 16 ms",
+            "24.17 GB",
             "Logging policy:",
             "2 Weeks"
         ],
         [
             "SSL-VPN",
-            "TCP: 1555",
+            "TCP: 1677",
             "UDP: Supported"
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn587443230.opengw.net&ip=221.170.117.228&tcp=1555&udp=1649&sid=1716543292992&hid=21963719",
+            "do_openvpn.aspx?fqdn=vpn416641003.opengw.net&ip=114.156.243.238&tcp=1677&udp=1609&sid=1716544498130&hid=21979237",
             "OpenVPN",
-            "TCP: 1555",
-            "UDP: 1649"
+            "TCP: 1677",
+            "UDP: 1609"
         ],
         [
             "MS-SSTP",
-            "vpn587443230.opengw.net:1555"
+            "vpn416641003.opengw.net:1677"
         ],
         ""
     ],
     [
         [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
+            "..\/images\/flags\/JP.png",
+            "Japan"
         ],
         [
-            "vpn229084364.opengw.net",
-            "211.224.237.14"
-        ],
-        [
-            "7 sessions",
-            "0 mins",
-            "Total 52,116 users"
-        ],
-        [
-            "388.41 Mbps",
-            "Ping: 29 ms",
-            "2,376.83 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1471",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn229084364.opengw.net&ip=211.224.237.14&tcp=1471&udp=1702&sid=1716543292992&hid=19766141",
-            "OpenVPN",
-            "TCP: 1471",
-            "UDP: 1702"
-        ],
-        [
-            "MS-SSTP",
-            "vpn229084364.opengw.net:1471"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
-        ],
-        [
-            "vpn823860425.opengw.net",
-            "121.156.7.148"
-        ],
-        [
-            "0 sessions",
-            "0 mins",
-            "Total 57,469 users"
-        ],
-        [
-            "381.64 Mbps",
-            "Ping: 24 ms",
-            "5,899.91 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 995",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn823860425.opengw.net&ip=121.156.7.148&tcp=995&udp=1195&sid=1716543292992&hid=18334406",
-            "OpenVPN",
-            "TCP: 995",
-            "UDP: 1195"
-        ],
-        [
-            "MS-SSTP",
-            "vpn823860425.opengw.net:995"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
-        ],
-        [
-            "vpn691162191.opengw.net",
-            "175.114.139.79"
-        ],
-        [
-            "7 sessions",
-            "12 hours",
-            "Total 5,157 users"
-        ],
-        [
-            "495.19 Mbps",
-            "Ping: 34 ms",
-            "487.06 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 995",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn691162191.opengw.net&ip=175.114.139.79&tcp=995&udp=1195&sid=1716543292992&hid=21855555",
-            "OpenVPN",
-            "TCP: 995",
-            "UDP: 1195"
-        ],
-        [
-            "MS-SSTP",
-            "vpn691162191.opengw.net:995"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
-        ],
-        [
-            "vpn969064631.opengw.net",
-            "222.114.170.111"
-        ],
-        [
-            "31 sessions",
-            "0 mins",
-            "Total 370,963 users"
-        ],
-        [
-            "717.28 Mbps",
-            "Ping: 25 ms",
-            "47,125.03 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 995",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn969064631.opengw.net&ip=222.114.170.111&tcp=995&udp=1195&sid=1716543292992&hid=18768855",
-            "OpenVPN",
-            "TCP: 995",
-            "UDP: 1195"
-        ],
-        [
-            "MS-SSTP",
-            "vpn969064631.opengw.net:995"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
-        ],
-        [
-            "vpn640828866.opengw.net",
-            "59.13.68.13"
-        ],
-        [
-            "10 sessions",
-            "0 mins",
-            "Total 11,244 users"
-        ],
-        [
-            "417.13 Mbps",
-            "Ping: 28 ms",
-            "1,801.18 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 995"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn640828866.opengw.net&ip=59.13.68.13&tcp=995&udp=1499&sid=1716543292992&hid=19932399",
-            "OpenVPN",
-            "TCP: 995",
-            "UDP: 1499"
-        ],
-        [
-            "MS-SSTP",
-            "vpn640828866.opengw.net:995"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/RU.png",
-            "Russian Federation"
-        ],
-        [
-            "vpn998088691.opengw.net",
-            "158.46.57.52"
-        ],
-        [
-            "11 sessions",
-            "1 days",
-            "Total 22,243 users"
-        ],
-        [
-            "19.39 Mbps",
-            "Ping: 70 ms",
-            "1,133.68 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1249",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn998088691.opengw.net&ip=158.46.57.52&tcp=1249&udp=0&sid=1716543292992&hid=17670904",
-            "OpenVPN",
-            "TCP: 1249"
-        ],
-        [
-            "MS-SSTP",
-            "vpn998088691.opengw.net:1249"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
-        ],
-        [
-            "vpn267685616.opengw.net",
-            "218.157.85.232"
-        ],
-        [
-            "11 sessions",
-            "0 mins",
-            "Total 10,717 users"
-        ],
-        [
-            "335.11 Mbps",
-            "Ping: 35 ms",
-            "1,695.53 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1230"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn267685616.opengw.net&ip=218.157.85.232&tcp=1230&udp=0&sid=1716543292992&hid=18225852",
-            "OpenVPN",
-            "TCP: 1230"
-        ],
-        [
-            "MS-SSTP",
-            "vpn267685616.opengw.net:1230"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
-        ],
-        [
-            "vpn525530565.opengw.net",
-            "112.218.13.237"
-        ],
-        [
-            "15 sessions",
-            "0 mins",
-            "Total 1,881 users"
-        ],
-        [
-            "88.61 Mbps",
-            "Ping: 42 ms",
-            "71.87 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1282",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn525530565.opengw.net&ip=112.218.13.237&tcp=1282&udp=1989&sid=1716543292992&hid=21870522",
-            "OpenVPN",
-            "TCP: 1282",
-            "UDP: 1989"
-        ],
-        [
-            "MS-SSTP",
-            "vpn525530565.opengw.net:1282"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
-        ],
-        [
-            "vpn276081139.opengw.net",
-            "106.243.247.246"
-        ],
-        [
-            "13 sessions",
-            "0 mins",
-            "Total 154,001 users"
-        ],
-        [
-            "480.77 Mbps",
-            "Ping: 38 ms",
-            "11,532.47 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1549",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn276081139.opengw.net&ip=106.243.247.246&tcp=1549&udp=1456&sid=1716543292992&hid=11853031",
-            "OpenVPN",
-            "TCP: 1549",
-            "UDP: 1456"
-        ],
-        [
-            "MS-SSTP",
-            "vpn276081139.opengw.net:1549"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
-        ],
-        [
-            "vpn637545575.opengw.net",
-            "112.165.86.117"
-        ],
-        [
-            "18 sessions",
-            "0 mins",
-            "Total 1,427,097 users"
-        ],
-        [
-            "80.32 Mbps",
-            "Ping: 29 ms",
-            "60,300.64 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1644",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn637545575.opengw.net&ip=112.165.86.117&tcp=1644&udp=1635&sid=1716543292992&hid=19115862",
-            "OpenVPN",
-            "TCP: 1644",
-            "UDP: 1635"
-        ],
-        [
-            "MS-SSTP",
-            "vpn637545575.opengw.net:1644"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
-        ],
-        [
-            "vpn520590935.opengw.net",
-            "219.240.124.190"
-        ],
-        [
-            "6 sessions",
-            "0 mins",
-            "Total 25,102 users"
-        ],
-        [
-            "469.54 Mbps",
-            "Ping: 29 ms",
-            "5,482.41 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1308",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn520590935.opengw.net&ip=219.240.124.190&tcp=1308&udp=1473&sid=1716543292992&hid=20151630",
-            "OpenVPN",
-            "TCP: 1308",
-            "UDP: 1473"
-        ],
-        [
-            "MS-SSTP",
-            "vpn520590935.opengw.net:1308"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
-        ],
-        [
-            "vpn874227992.opengw.net",
-            "220.94.84.17"
-        ],
-        [
-            "2 sessions",
-            "0 mins",
-            "Total 1,551 users"
-        ],
-        [
-            "57.53 Mbps",
-            "Ping: 34 ms",
-            "89.68 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1814",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn874227992.opengw.net&ip=220.94.84.17&tcp=1814&udp=1478&sid=1716543292992&hid=21553372",
-            "OpenVPN",
-            "TCP: 1814",
-            "UDP: 1478"
-        ],
-        [
-            "MS-SSTP",
-            "vpn874227992.opengw.net:1814"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
-        ],
-        [
-            "vpn566282990.opengw.net",
-            "116.122.93.164"
-        ],
-        [
-            "14 sessions",
-            "0 mins",
-            "Total 14,423 users"
-        ],
-        [
-            "95.84 Mbps",
-            "Ping: 35 ms",
-            "1,050.58 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1584",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn566282990.opengw.net&ip=116.122.93.164&tcp=1584&udp=1799&sid=1716543292992&hid=21313444",
-            "OpenVPN",
-            "TCP: 1584",
-            "UDP: 1799"
-        ],
-        [
-            "MS-SSTP",
-            "vpn566282990.opengw.net:1584"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
-        ],
-        [
-            "vpn684740818.opengw.net",
-            "112.223.68.102"
-        ],
-        [
-            "20 sessions",
-            "0 mins",
-            "Total 31,479 users"
-        ],
-        [
-            "92.89 Mbps",
-            "Ping: 38 ms",
-            "3,000.58 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1441",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn684740818.opengw.net&ip=112.223.68.102&tcp=1441&udp=1382&sid=1716543292992&hid=18701742",
-            "OpenVPN",
-            "TCP: 1441",
-            "UDP: 1382"
-        ],
-        [
-            "MS-SSTP",
-            "vpn684740818.opengw.net:1441"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
-        ],
-        [
-            "vpn799328756.opengw.net",
-            "119.18.120.103"
+            "vpn777300033.opengw.net",
+            "118.153.64.72",
+            "(KD118153064072.ppp-bb.dion.ne.jp)"
         ],
         [
             "12 sessions",
             "0 mins",
-            "Total 108,356 users"
+            "Total 119,672 users"
         ],
         [
-            "92.85 Mbps",
-            "Ping: 47 ms",
-            "7,968.19 GB",
+            "788.51 Mbps",
+            "Ping: 8 ms",
+            "34,253.46 GB",
             "Logging policy:",
             "2 Weeks"
         ],
         [
             "SSL-VPN",
-            "TCP: 1466",
+            "TCP: 1304",
             "UDP: Supported"
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn799328756.opengw.net&ip=119.18.120.103&tcp=1466&udp=1500&sid=1716543292992&hid=17204530",
+            "do_openvpn.aspx?fqdn=vpn777300033.opengw.net&ip=118.153.64.72&tcp=1304&udp=0&sid=1716544498130&hid=18441761",
             "OpenVPN",
-            "TCP: 1466",
-            "UDP: 1500"
+            "TCP: 1304"
         ],
         [
             "MS-SSTP",
-            "vpn799328756.opengw.net:1466"
+            "vpn777300033.opengw.net:1304"
         ],
         ""
     ],
@@ -3084,406 +2143,18 @@
             "Korea Republic of"
         ],
         [
-            "vpn451666403.opengw.net",
-            "1.223.113.29"
-        ],
-        [
-            "9 sessions",
-            "0 mins",
-            "Total 3,557 users"
-        ],
-        [
-            "254.86 Mbps",
-            "Ping: 39 ms",
-            "530.36 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1928",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn451666403.opengw.net&ip=1.223.113.29&tcp=1928&udp=1440&sid=1716543292992&hid=14973880",
-            "OpenVPN",
-            "TCP: 1928",
-            "UDP: 1440"
-        ],
-        [
-            "MS-SSTP",
-            "vpn451666403.opengw.net:1928"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/JP.png",
-            "Japan"
-        ],
-        [
-            "vpn360451716.opengw.net",
-            "220.247.63.247"
-        ],
-        [
-            "16 sessions",
-            "0 mins",
-            "Total 32,246 users"
-        ],
-        [
-            "49.28 Mbps",
-            "Ping: 36 ms",
-            "3,301.88 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1581",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn360451716.opengw.net&ip=220.247.63.247&tcp=1581&udp=1303&sid=1716543292992&hid=21018127",
-            "OpenVPN",
-            "TCP: 1581",
-            "UDP: 1303"
-        ],
-        [
-            "MS-SSTP",
-            "vpn360451716.opengw.net:1581"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
-        ],
-        [
-            "vpn235030738.opengw.net",
-            "106.241.176.211"
-        ],
-        [
-            "14 sessions",
-            "0 mins",
-            "Total 6,220 users"
-        ],
-        [
-            "783.92 Mbps",
-            "Ping: 39 ms",
-            "1,127.08 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1606",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn235030738.opengw.net&ip=106.241.176.211&tcp=1606&udp=1894&sid=1716543292992&hid=20870677",
-            "OpenVPN",
-            "TCP: 1606",
-            "UDP: 1894"
-        ],
-        [
-            "MS-SSTP",
-            "vpn235030738.opengw.net:1606"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/US.png",
-            "United States"
-        ],
-        [
-            "vpn909959713.opengw.net",
-            "68.6.64.49"
+            "vpn768314114.opengw.net",
+            "1.229.114.70"
         ],
         [
             "18 sessions",
-            "0 mins",
-            "Total 58,954 users"
+            "16 hours",
+            "Total 78,060 users"
         ],
         [
-            "215.72 Mbps",
-            "Ping: 18 ms",
-            "2,600.36 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1565",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn909959713.opengw.net&ip=68.6.64.49&tcp=1565&udp=0&sid=1716543292992&hid=20889738",
-            "OpenVPN",
-            "TCP: 1565"
-        ],
-        [
-            "MS-SSTP",
-            "vpn909959713.opengw.net:1565"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/JP.png",
-            "Japan"
-        ],
-        [
-            "vpn856526771.opengw.net",
-            "180.23.205.231"
-        ],
-        [
-            "23 sessions",
-            "1 days",
-            "Total 279,946 users"
-        ],
-        [
-            "3.62 Mbps",
-            "Ping: 6 ms",
-            "13,436.03 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1848",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn856526771.opengw.net&ip=180.23.205.231&tcp=1848&udp=1846&sid=1716543292992&hid=10144834",
-            "OpenVPN",
-            "TCP: 1848",
-            "UDP: 1846"
-        ],
-        [
-            "MS-SSTP",
-            "vpn856526771.opengw.net:1848"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/BR.png",
-            "Brazil"
-        ],
-        [
-            "vpn367351719.opengw.net",
-            "201.93.204.92"
-        ],
-        [
-            "0 sessions",
-            "12 hours",
-            "Total 10 users"
-        ],
-        [
-            "37.52 Mbps",
-            "Ping: -",
-            "0.97 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1875"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn367351719.opengw.net&ip=201.93.204.92&tcp=1875&udp=1481&sid=1716543292992&hid=16924822",
-            "OpenVPN",
-            "TCP: 1875",
-            "UDP: 1481"
-        ],
-        [
-            "MS-SSTP",
-            "vpn367351719.opengw.net:1875"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/KH.png",
-            "Cambodia"
-        ],
-        [
-            "vpn205614585.opengw.net",
-            "103.244.248.44"
-        ],
-        [
-            "3 sessions",
-            "0 mins",
-            "Total 3,002 users"
-        ],
-        [
-            "17.74 Mbps",
-            "Ping: 23 ms",
-            "175.97 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1201",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn205614585.opengw.net&ip=103.244.248.44&tcp=1201&udp=1295&sid=1716543292992&hid=20528382",
-            "OpenVPN",
-            "TCP: 1201",
-            "UDP: 1295"
-        ],
-        [
-            "MS-SSTP",
-            "vpn205614585.opengw.net:1201"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
-        ],
-        [
-            "vpn650872887.opengw.net",
-            "59.29.161.2"
-        ],
-        [
-            "0 sessions",
-            "0 mins",
-            "Total 32,510 users"
-        ],
-        [
-            "432.75 Mbps",
-            "Ping: -",
-            "3,418.92 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1305",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn650872887.opengw.net&ip=59.29.161.2&tcp=1305&udp=1389&sid=1716543292992&hid=17075808",
-            "OpenVPN",
-            "TCP: 1305",
-            "UDP: 1389"
-        ],
-        [
-            "MS-SSTP",
-            "vpn650872887.opengw.net:1305"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/KH.png",
-            "Cambodia"
-        ],
-        [
-            "vpn161336967.opengw.net",
-            "124.108.54.234"
-        ],
-        [
-            "8 sessions",
-            "1 days",
-            "Total 10,802 users"
-        ],
-        [
-            "6.79 Mbps",
-            "Ping: 42 ms",
-            "1,259.06 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1832",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn161336967.opengw.net&ip=124.108.54.234&tcp=1832&udp=1698&sid=1716543292992&hid=11347846",
-            "OpenVPN",
-            "TCP: 1832",
-            "UDP: 1698"
-        ],
-        [
-            "MS-SSTP",
-            "vpn161336967.opengw.net:1832"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/US.png",
-            "United States"
-        ],
-        [
-            "vpn664047935.opengw.net",
-            "47.132.91.210"
-        ],
-        [
-            "0 sessions",
-            "0 mins",
-            "Total 579 users"
-        ],
-        [
-            "35.88 Mbps",
-            "Ping: 39 ms",
-            "18.13 GB",
-            "Logging policy:",
-            "2 Weeks"
-        ],
-        [
-            "SSL-VPN",
-            "TCP: 1529",
-            "UDP: Supported"
-        ],
-        "",
-        [
-            "do_openvpn.aspx?fqdn=vpn664047935.opengw.net&ip=47.132.91.210&tcp=1529&udp=1483&sid=1716543292992&hid=20247030",
-            "OpenVPN",
-            "TCP: 1529",
-            "UDP: 1483"
-        ],
-        [
-            "MS-SSTP",
-            "vpn664047935.opengw.net:1529"
-        ],
-        ""
-    ],
-    [
-        [
-            "..\/images\/flags\/KR.png",
-            "Korea Republic of"
-        ],
-        [
-            "vpn469925213.opengw.net",
-            "183.97.17.169"
-        ],
-        [
-            "47 sessions",
-            "1 days",
-            "Total 1,154,123 users"
-        ],
-        [
-            "1.45 Mbps",
-            "Ping: 30 ms",
-            "106,341.13 GB",
+            "93.64 Mbps",
+            "Ping: 33 ms",
+            "4,335.90 GB",
             "Logging policy:",
             "2 Weeks"
         ],
@@ -3494,14 +2165,1144 @@
         ],
         "",
         [
-            "do_openvpn.aspx?fqdn=vpn469925213.opengw.net&ip=183.97.17.169&tcp=995&udp=1195&sid=1716543292992&hid=15025185",
+            "do_openvpn.aspx?fqdn=vpn768314114.opengw.net&ip=1.229.114.70&tcp=995&udp=1195&sid=1716544498130&hid=16642047",
             "OpenVPN",
             "TCP: 995",
             "UDP: 1195"
         ],
         [
             "MS-SSTP",
-            "vpn469925213.opengw.net:995"
+            "vpn768314114.opengw.net:995"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/JP.png",
+            "Japan"
+        ],
+        [
+            "vpn609126211.opengw.net",
+            "180.49.129.84",
+            "(p701084-ipxg00c01oomichi.oita.ocn.ne.jp)"
+        ],
+        [
+            "21 sessions",
+            "0 mins",
+            "Total 735,029 users"
+        ],
+        [
+            "270.02 Mbps",
+            "Ping: 19 ms",
+            "43,240.83 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1767",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn609126211.opengw.net&ip=180.49.129.84&tcp=1767&udp=1594&sid=1716544498130&hid=20757309",
+            "OpenVPN",
+            "TCP: 1767",
+            "UDP: 1594"
+        ],
+        [
+            "MS-SSTP",
+            "vpn609126211.opengw.net:1767"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn326532881.opengw.net",
+            "115.92.161.13"
+        ],
+        [
+            "19 sessions",
+            "21 hours",
+            "Total 82,829 users"
+        ],
+        [
+            "66.37 Mbps",
+            "Ping: 37 ms",
+            "5,427.13 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1514",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn326532881.opengw.net&ip=115.92.161.13&tcp=1514&udp=1826&sid=1716544498130&hid=17277590",
+            "OpenVPN",
+            "TCP: 1514",
+            "UDP: 1826"
+        ],
+        [
+            "MS-SSTP",
+            "vpn326532881.opengw.net:1514"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/JP.png",
+            "Japan"
+        ],
+        [
+            "vpn327953655.opengw.net",
+            "153.216.108.104"
+        ],
+        [
+            "20 sessions",
+            "0 mins",
+            "Total 47,886 users"
+        ],
+        [
+            "90.76 Mbps",
+            "Ping: 11 ms",
+            "5,212.53 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1645",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn327953655.opengw.net&ip=153.216.108.104&tcp=1645&udp=1309&sid=1716544498130&hid=19863636",
+            "OpenVPN",
+            "TCP: 1645",
+            "UDP: 1309"
+        ],
+        [
+            "MS-SSTP",
+            "vpn327953655.opengw.net:1645"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn740239914.opengw.net",
+            "175.193.114.91"
+        ],
+        [
+            "16 sessions",
+            "2 days",
+            "Total 46,195 users"
+        ],
+        [
+            "6.38 Mbps",
+            "Ping: 32 ms",
+            "5,339.01 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 995",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn740239914.opengw.net&ip=175.193.114.91&tcp=995&udp=1195&sid=1716544498130&hid=19798001",
+            "OpenVPN",
+            "TCP: 995",
+            "UDP: 1195"
+        ],
+        [
+            "MS-SSTP",
+            "vpn740239914.opengw.net:995"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn389963509.opengw.net",
+            "219.250.61.2"
+        ],
+        [
+            "25 sessions",
+            "16 hours",
+            "Total 176,545 users"
+        ],
+        [
+            "261.19 Mbps",
+            "Ping: 33 ms",
+            "11,514.03 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 995",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn389963509.opengw.net&ip=219.250.61.2&tcp=995&udp=1195&sid=1716544498130&hid=20086033",
+            "OpenVPN",
+            "TCP: 995",
+            "UDP: 1195"
+        ],
+        [
+            "MS-SSTP",
+            "vpn389963509.opengw.net:995"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/JP.png",
+            "Japan"
+        ],
+        [
+            "vpn350908335.opengw.net",
+            "211.124.137.220"
+        ],
+        [
+            "21 sessions",
+            "0 mins",
+            "Total 37,972 users"
+        ],
+        [
+            "230.30 Mbps",
+            "Ping: 13 ms",
+            "2,459.36 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1711",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn350908335.opengw.net&ip=211.124.137.220&tcp=1711&udp=0&sid=1716544498130&hid=21081294",
+            "OpenVPN",
+            "TCP: 1711"
+        ],
+        [
+            "MS-SSTP",
+            "vpn350908335.opengw.net:1711"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn989373092.opengw.net",
+            "211.224.74.203"
+        ],
+        [
+            "7 sessions",
+            "16 hours",
+            "Total 5,414 users"
+        ],
+        [
+            "99.93 Mbps",
+            "Ping: 32 ms",
+            "252.09 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 995",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn989373092.opengw.net&ip=211.224.74.203&tcp=995&udp=1195&sid=1716544498130&hid=11137011",
+            "OpenVPN",
+            "TCP: 995",
+            "UDP: 1195"
+        ],
+        [
+            "MS-SSTP",
+            "vpn989373092.opengw.net:995"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn253406760.opengw.net",
+            "211.243.74.18"
+        ],
+        [
+            "1 sessions",
+            "16 hours",
+            "Total 1,282 users"
+        ],
+        [
+            "438.17 Mbps",
+            "Ping: 34 ms",
+            "81.01 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1387",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn253406760.opengw.net&ip=211.243.74.18&tcp=1387&udp=1632&sid=1716544498130&hid=21751083",
+            "OpenVPN",
+            "TCP: 1387",
+            "UDP: 1632"
+        ],
+        [
+            "MS-SSTP",
+            "vpn253406760.opengw.net:1387"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn331470225.opengw.net",
+            "27.113.76.26"
+        ],
+        [
+            "7 sessions",
+            "21 hours",
+            "Total 14,569 users"
+        ],
+        [
+            "85.94 Mbps",
+            "Ping: 43 ms",
+            "1,738.22 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1261",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn331470225.opengw.net&ip=27.113.76.26&tcp=1261&udp=1499&sid=1716544498130&hid=18492771",
+            "OpenVPN",
+            "TCP: 1261",
+            "UDP: 1499"
+        ],
+        [
+            "MS-SSTP",
+            "vpn331470225.opengw.net:1261"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn937418129.opengw.net",
+            "182.218.253.13"
+        ],
+        [
+            "12 sessions",
+            "16 hours",
+            "Total 84,793 users"
+        ],
+        [
+            "97.18 Mbps",
+            "Ping: 57 ms",
+            "8,374.00 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 995",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn937418129.opengw.net&ip=182.218.253.13&tcp=995&udp=0&sid=1716544498130&hid=16438292",
+            "OpenVPN",
+            "TCP: 995"
+        ],
+        [
+            "MS-SSTP",
+            "vpn937418129.opengw.net:995"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/JP.png",
+            "Japan"
+        ],
+        [
+            "vpn600849538.opengw.net",
+            "119.238.82.26"
+        ],
+        [
+            "3 sessions",
+            "0 mins",
+            "Total 114,608 users"
+        ],
+        [
+            "314.25 Mbps",
+            "Ping: 28 ms",
+            "11,029.18 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1258",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn600849538.opengw.net&ip=119.238.82.26&tcp=1258&udp=1427&sid=1716544498130&hid=17365092",
+            "OpenVPN",
+            "TCP: 1258",
+            "UDP: 1427"
+        ],
+        [
+            "MS-SSTP",
+            "vpn600849538.opengw.net:1258"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn162474067.opengw.net",
+            "211.245.15.211"
+        ],
+        [
+            "7 sessions",
+            "0 mins",
+            "Total 89,846 users"
+        ],
+        [
+            "94.53 Mbps",
+            "Ping: 29 ms",
+            "5,695.99 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1262",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn162474067.opengw.net&ip=211.245.15.211&tcp=1262&udp=1979&sid=1716544498130&hid=19394751",
+            "OpenVPN",
+            "TCP: 1262",
+            "UDP: 1979"
+        ],
+        [
+            "MS-SSTP",
+            "vpn162474067.opengw.net:1262"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn750959800.opengw.net",
+            "118.32.11.200"
+        ],
+        [
+            "25 sessions",
+            "0 mins",
+            "Total 29,953 users"
+        ],
+        [
+            "762.63 Mbps",
+            "Ping: 32 ms",
+            "4,854.04 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1870",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn750959800.opengw.net&ip=118.32.11.200&tcp=1870&udp=0&sid=1716544498130&hid=19732488",
+            "OpenVPN",
+            "TCP: 1870"
+        ],
+        [
+            "MS-SSTP",
+            "vpn750959800.opengw.net:1870"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn786198851.opengw.net",
+            "121.172.188.246"
+        ],
+        [
+            "13 sessions",
+            "0 mins",
+            "Total 9,085 users"
+        ],
+        [
+            "195.98 Mbps",
+            "Ping: 31 ms",
+            "1,174.00 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 995",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn786198851.opengw.net&ip=121.172.188.246&tcp=995&udp=1195&sid=1716544498130&hid=21578952",
+            "OpenVPN",
+            "TCP: 995",
+            "UDP: 1195"
+        ],
+        [
+            "MS-SSTP",
+            "vpn786198851.opengw.net:995"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn521714158.opengw.net",
+            "175.214.173.29"
+        ],
+        [
+            "5 sessions",
+            "0 mins",
+            "Total 9,165 users"
+        ],
+        [
+            "86.45 Mbps",
+            "Ping: 22 ms",
+            "2,449.54 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1832",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn521714158.opengw.net&ip=175.214.173.29&tcp=1832&udp=1651&sid=1716544498130&hid=20805106",
+            "OpenVPN",
+            "TCP: 1832",
+            "UDP: 1651"
+        ],
+        [
+            "MS-SSTP",
+            "vpn521714158.opengw.net:1832"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn576927482.opengw.net",
+            "121.175.175.84"
+        ],
+        [
+            "10 sessions",
+            "0 mins",
+            "Total 5,774 users"
+        ],
+        [
+            "85.71 Mbps",
+            "Ping: 25 ms",
+            "457.25 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1964",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn576927482.opengw.net&ip=121.175.175.84&tcp=1964&udp=1582&sid=1716544498130&hid=20226114",
+            "OpenVPN",
+            "TCP: 1964",
+            "UDP: 1582"
+        ],
+        [
+            "MS-SSTP",
+            "vpn576927482.opengw.net:1964"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn206279834.opengw.net",
+            "211.228.54.67"
+        ],
+        [
+            "6 sessions",
+            "0 mins",
+            "Total 24,567 users"
+        ],
+        [
+            "72.15 Mbps",
+            "Ping: 29 ms",
+            "2,220.82 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1518",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn206279834.opengw.net&ip=211.228.54.67&tcp=1518&udp=1932&sid=1716544498130&hid=19901830",
+            "OpenVPN",
+            "TCP: 1518",
+            "UDP: 1932"
+        ],
+        [
+            "MS-SSTP",
+            "vpn206279834.opengw.net:1518"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn371488938.opengw.net",
+            "121.145.241.149"
+        ],
+        [
+            "6 sessions",
+            "0 mins",
+            "Total 331 users"
+        ],
+        [
+            "93.78 Mbps",
+            "Ping: 31 ms",
+            "14.99 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1656",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn371488938.opengw.net&ip=121.145.241.149&tcp=1656&udp=1623&sid=1716544498130&hid=20715165",
+            "OpenVPN",
+            "TCP: 1656",
+            "UDP: 1623"
+        ],
+        [
+            "MS-SSTP",
+            "vpn371488938.opengw.net:1656"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn718368553.opengw.net",
+            "121.181.24.49"
+        ],
+        [
+            "5 sessions",
+            "0 mins",
+            "Total 121,892 users"
+        ],
+        [
+            "147.70 Mbps",
+            "Ping: 27 ms",
+            "2,589.30 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1226",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn718368553.opengw.net&ip=121.181.24.49&tcp=1226&udp=0&sid=1716544498130&hid=19935764",
+            "OpenVPN",
+            "TCP: 1226"
+        ],
+        [
+            "MS-SSTP",
+            "vpn718368553.opengw.net:1226"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn264416711.opengw.net",
+            "218.48.198.31"
+        ],
+        [
+            "27 sessions",
+            "0 mins",
+            "Total 33,552 users"
+        ],
+        [
+            "88.68 Mbps",
+            "Ping: 29 ms",
+            "3,180.26 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1515",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn264416711.opengw.net&ip=218.48.198.31&tcp=1515&udp=1843&sid=1716544498130&hid=18757071",
+            "OpenVPN",
+            "TCP: 1515",
+            "UDP: 1843"
+        ],
+        [
+            "MS-SSTP",
+            "vpn264416711.opengw.net:1515"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn617762926.opengw.net",
+            "220.121.244.150"
+        ],
+        [
+            "14 sessions",
+            "0 mins",
+            "Total 20,193 users"
+        ],
+        [
+            "320.74 Mbps",
+            "Ping: 29 ms",
+            "4,034.66 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 995",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn617762926.opengw.net&ip=220.121.244.150&tcp=995&udp=1195&sid=1716544498130&hid=18491958",
+            "OpenVPN",
+            "TCP: 995",
+            "UDP: 1195"
+        ],
+        [
+            "MS-SSTP",
+            "vpn617762926.opengw.net:995"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn311334902.opengw.net",
+            "220.88.31.137"
+        ],
+        [
+            "8 sessions",
+            "0 mins",
+            "Total 48,247 users"
+        ],
+        [
+            "284.70 Mbps",
+            "Ping: 30 ms",
+            "4,764.55 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 995",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn311334902.opengw.net&ip=220.88.31.137&tcp=995&udp=1195&sid=1716544498130&hid=14345937",
+            "OpenVPN",
+            "TCP: 995",
+            "UDP: 1195"
+        ],
+        [
+            "MS-SSTP",
+            "vpn311334902.opengw.net:995"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn660923694.opengw.net",
+            "211.222.221.112"
+        ],
+        [
+            "18 sessions",
+            "0 mins",
+            "Total 59,022 users"
+        ],
+        [
+            "267.40 Mbps",
+            "Ping: 33 ms",
+            "7,472.50 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 995",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn660923694.opengw.net&ip=211.222.221.112&tcp=995&udp=1195&sid=1716544498130&hid=18433296",
+            "OpenVPN",
+            "TCP: 995",
+            "UDP: 1195"
+        ],
+        [
+            "MS-SSTP",
+            "vpn660923694.opengw.net:995"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn737072645.opengw.net",
+            "211.192.36.207"
+        ],
+        [
+            "17 sessions",
+            "0 mins",
+            "Total 2,773 users"
+        ],
+        [
+            "647.10 Mbps",
+            "Ping: 36 ms",
+            "205.09 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1268",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn737072645.opengw.net&ip=211.192.36.207&tcp=1268&udp=1222&sid=1716544498130&hid=21842469",
+            "OpenVPN",
+            "TCP: 1268",
+            "UDP: 1222"
+        ],
+        [
+            "MS-SSTP",
+            "vpn737072645.opengw.net:1268"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn325447846.opengw.net",
+            "123.214.188.189"
+        ],
+        [
+            "45 sessions",
+            "0 mins",
+            "Total 514,193 users"
+        ],
+        [
+            "247.68 Mbps",
+            "Ping: 39 ms",
+            "60,053.62 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 995",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn325447846.opengw.net&ip=123.214.188.189&tcp=995&udp=1195&sid=1716544498130&hid=19432986",
+            "OpenVPN",
+            "TCP: 995",
+            "UDP: 1195"
+        ],
+        [
+            "MS-SSTP",
+            "vpn325447846.opengw.net:995"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/US.png",
+            "United States"
+        ],
+        [
+            "vpn711875762.opengw.net",
+            "73.189.179.238",
+            "(c-73-189-179-238.hsd1.ca.comcast.net)"
+        ],
+        [
+            "47 sessions",
+            "21 hours",
+            "Total 34,582 users"
+        ],
+        [
+            "180.98 Mbps",
+            "Ping: 29 ms",
+            "1,678.60 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1929",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn711875762.opengw.net&ip=73.189.179.238&tcp=1929&udp=1350&sid=1716544498130&hid=19749858",
+            "OpenVPN",
+            "TCP: 1929",
+            "UDP: 1350"
+        ],
+        [
+            "MS-SSTP",
+            "vpn711875762.opengw.net:1929"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn132685462.opengw.net",
+            "119.75.168.98"
+        ],
+        [
+            "17 sessions",
+            "0 mins",
+            "Total 227,503 users"
+        ],
+        [
+            "86.84 Mbps",
+            "Ping: 45 ms",
+            "13,136.54 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1830",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn132685462.opengw.net&ip=119.75.168.98&tcp=1830&udp=1908&sid=1716544498130&hid=20685501",
+            "OpenVPN",
+            "TCP: 1830",
+            "UDP: 1908"
+        ],
+        [
+            "MS-SSTP",
+            "vpn132685462.opengw.net:1830"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/RU.png",
+            "Russian Federation"
+        ],
+        [
+            "vpn550255599.opengw.net",
+            "95.78.24.70",
+            "(dynamicip-24-78-95-70.pppoe.chelny.ertelecom.ru)"
+        ],
+        [
+            "5 sessions",
+            "0 mins",
+            "Total 231 users"
+        ],
+        [
+            "28.14 Mbps",
+            "Ping: 38 ms",
+            "12.46 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 1338",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn550255599.opengw.net&ip=95.78.24.70&tcp=1338&udp=1333&sid=1716544498130&hid=21554300",
+            "OpenVPN",
+            "TCP: 1338",
+            "UDP: 1333"
+        ],
+        [
+            "MS-SSTP",
+            "vpn550255599.opengw.net:1338"
+        ],
+        ""
+    ],
+    [
+        [
+            "..\/images\/flags\/KR.png",
+            "Korea Republic of"
+        ],
+        [
+            "vpn535852018.opengw.net",
+            "119.192.98.116"
+        ],
+        [
+            "0 sessions",
+            "16 hours",
+            "Total 21,098 users"
+        ],
+        [
+            "86.33 Mbps",
+            "Ping: -",
+            "1,841.45 GB",
+            "Logging policy:",
+            "2 Weeks"
+        ],
+        [
+            "SSL-VPN",
+            "TCP: 995",
+            "UDP: Supported"
+        ],
+        "",
+        [
+            "do_openvpn.aspx?fqdn=vpn535852018.opengw.net&ip=119.192.98.116&tcp=995&udp=1195&sid=1716544498130&hid=17134280",
+            "OpenVPN",
+            "TCP: 995",
+            "UDP: 1195"
+        ],
+        [
+            "MS-SSTP",
+            "vpn535852018.opengw.net:995"
         ],
         ""
     ]
